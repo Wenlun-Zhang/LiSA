@@ -1,0 +1,2002 @@
+2024-02-19 08:07:18,190 - Victim node is 16608.
+2024-02-19 08:07:18,190 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-19 08:07:18,190 - Classification Succeeds.
+2024-02-19 08:07:18,190 - Link Generation Fails.
+2024-02-19 08:24:32,895 - Victim node is 19516.
+2024-02-19 08:24:32,895 - tensor([ 4296, 12677, 17392], device='cuda:0')
+2024-02-19 08:24:32,896 - Classification Succeeds.
+2024-02-19 08:24:32,896 - Link Generation Fails.
+2024-02-19 08:41:44,182 - Victim node is 3731.
+2024-02-19 08:41:44,182 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-19 08:41:44,182 - Classification Fails.
+2024-02-19 08:41:44,182 - Link Generation Succeeds.
+2024-02-19 08:59:03,901 - Victim node is 2362.
+2024-02-19 08:59:03,902 - tensor([ 3070, 21491, 22473], device='cuda:0')
+2024-02-19 08:59:03,902 - Classification Fails.
+2024-02-19 08:59:03,902 - Link Generation Succeeds.
+2024-02-19 09:16:16,480 - Victim node is 14678.
+2024-02-19 09:16:16,480 - tensor([ 1387,  2442, 19347], device='cuda:0')
+2024-02-19 09:16:16,480 - Classification Succeeds.
+2024-02-19 09:16:16,480 - Link Generation Fails.
+2024-02-19 09:33:49,181 - Victim node is 2162.
+2024-02-19 09:33:49,181 - tensor([19347, 19743, 21729], device='cuda:0')
+2024-02-19 09:33:49,181 - Classification Succeeds.
+2024-02-19 09:33:49,181 - Link Generation Fails.
+2024-02-19 09:51:11,165 - Victim node is 6960.
+2024-02-19 09:51:11,165 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-19 09:51:11,165 - Classification Fails.
+2024-02-19 09:51:11,165 - Link Generation Succeeds.
+2024-02-19 10:08:46,592 - Victim node is 13687.
+2024-02-19 10:08:46,592 - tensor([ 2124, 16809, 20990], device='cuda:0')
+2024-02-19 10:08:46,593 - Classification Succeeds.
+2024-02-19 10:08:46,593 - Link Generation Fails.
+2024-02-19 10:26:00,703 - Victim node is 21332.
+2024-02-19 10:26:00,703 - tensor([ 1722, 22472, 22473], device='cuda:0')
+2024-02-19 10:26:00,703 - Classification Succeeds.
+2024-02-19 10:26:00,704 - Link Generation Succeeds.
+2024-02-19 10:43:26,631 - Victim node is 11287.
+2024-02-19 10:43:26,631 - tensor([ 8505, 14650, 20415], device='cuda:0')
+2024-02-19 10:43:26,631 - Classification Succeeds.
+2024-02-19 10:43:26,631 - Link Generation Fails.
+2024-02-19 11:00:58,012 - Victim node is 14400.
+2024-02-19 11:00:58,012 - tensor([16809, 22471, 22473], device='cuda:0')
+2024-02-19 11:00:58,012 - Classification Fails.
+2024-02-19 11:00:58,012 - Link Generation Succeeds.
+2024-02-19 11:18:22,130 - Victim node is 3397.
+2024-02-19 11:18:22,130 - tensor([13294, 14650, 16809], device='cuda:0')
+2024-02-19 11:18:22,130 - Classification Succeeds.
+2024-02-19 11:18:22,130 - Link Generation Fails.
+2024-02-19 11:35:35,927 - Victim node is 602.
+2024-02-19 11:35:35,927 - tensor([  61, 4296, 6174], device='cuda:0')
+2024-02-19 11:35:35,927 - Classification Succeeds.
+2024-02-19 11:35:35,927 - Link Generation Fails.
+2024-02-19 11:52:54,838 - Victim node is 17638.
+2024-02-19 11:52:54,839 - tensor([ 1722,  2323, 15713], device='cuda:0')
+2024-02-19 11:52:54,839 - Classification Succeeds.
+2024-02-19 11:52:54,839 - Link Generation Fails.
+2024-02-19 12:10:21,611 - Victim node is 2156.
+2024-02-19 12:10:21,611 - tensor([  909,  4296, 12677], device='cuda:0')
+2024-02-19 12:10:21,611 - Classification Fails.
+2024-02-19 12:10:21,611 - Link Generation Fails.
+2024-02-19 12:27:45,230 - Victim node is 4791.
+2024-02-19 12:27:45,230 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-19 12:27:45,231 - Classification Fails.
+2024-02-19 12:27:45,231 - Link Generation Succeeds.
+2024-02-19 12:45:10,026 - Victim node is 8221.
+2024-02-19 12:45:10,026 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-19 12:45:10,027 - Classification Fails.
+2024-02-19 12:45:10,027 - Link Generation Succeeds.
+2024-02-19 13:02:36,003 - Victim node is 8684.
+2024-02-19 13:02:36,003 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-19 13:02:36,004 - Classification Fails.
+2024-02-19 13:02:36,004 - Link Generation Succeeds.
+2024-02-19 13:20:12,917 - Victim node is 17917.
+2024-02-19 13:20:12,917 - tensor([ 3260, 10830, 22471], device='cuda:0')
+2024-02-19 13:20:12,917 - Classification Succeeds.
+2024-02-19 13:20:12,917 - Link Generation Succeeds.
+2024-02-19 13:37:47,746 - Victim node is 2520.
+2024-02-19 13:37:47,746 - tensor([ 4296, 12677, 16809], device='cuda:0')
+2024-02-19 13:37:47,746 - Classification Succeeds.
+2024-02-19 13:37:47,746 - Link Generation Fails.
+2024-02-19 13:55:18,618 - Victim node is 16580.
+2024-02-19 13:55:18,618 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-19 13:55:18,618 - Classification Fails.
+2024-02-19 13:55:18,618 - Link Generation Succeeds.
+2024-02-19 14:12:50,570 - Victim node is 20003.
+2024-02-19 14:12:50,570 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-19 14:12:50,570 - Classification Succeeds.
+2024-02-19 14:12:50,571 - Link Generation Succeeds.
+2024-02-19 14:30:13,329 - Victim node is 16079.
+2024-02-19 14:30:13,329 - tensor([13294, 16809, 21120], device='cuda:0')
+2024-02-19 14:30:13,329 - Classification Succeeds.
+2024-02-19 14:30:13,329 - Link Generation Fails.
+2024-02-19 14:47:47,547 - Victim node is 21872.
+2024-02-19 14:47:47,547 - tensor([ 1722,  8188, 15986], device='cuda:0')
+2024-02-19 14:47:47,547 - Classification Fails.
+2024-02-19 14:47:47,547 - Link Generation Fails.
+2024-02-19 15:05:20,810 - Victim node is 6011.
+2024-02-19 15:05:20,810 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-19 15:05:20,811 - Classification Fails.
+2024-02-19 15:05:20,811 - Link Generation Succeeds.
+2024-02-19 15:22:57,754 - Victim node is 15029.
+2024-02-19 15:22:57,754 - tensor([ 8797, 13525, 15477], device='cuda:0')
+2024-02-19 15:22:57,754 - Classification Succeeds.
+2024-02-19 15:22:57,754 - Link Generation Fails.
+2024-02-19 15:40:41,485 - Victim node is 3915.
+2024-02-19 15:40:41,485 - tensor([ 1722,  4296, 12677], device='cuda:0')
+2024-02-19 15:40:41,486 - Classification Succeeds.
+2024-02-19 15:40:41,486 - Link Generation Fails.
+2024-02-19 15:58:13,508 - Victim node is 9848.
+2024-02-19 15:58:13,508 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-19 15:58:13,509 - Classification Succeeds.
+2024-02-19 15:58:13,509 - Link Generation Fails.
+2024-02-19 16:15:52,906 - Victim node is 15249.
+2024-02-19 16:15:52,906 - tensor([14497, 16895, 22471], device='cuda:0')
+2024-02-19 16:15:52,906 - Classification Succeeds.
+2024-02-19 16:15:52,906 - Link Generation Succeeds.
+2024-02-19 16:33:29,194 - Victim node is 8906.
+2024-02-19 16:33:29,194 - tensor([ 2409, 13525, 16052], device='cuda:0')
+2024-02-19 16:33:29,195 - Classification Succeeds.
+2024-02-19 16:33:29,195 - Link Generation Fails.
+2024-02-19 16:51:03,535 - Victim node is 14641.
+2024-02-19 16:51:03,535 - tensor([ 8188, 13385, 16809], device='cuda:0')
+2024-02-19 16:51:03,535 - Classification Succeeds.
+2024-02-19 16:51:03,535 - Link Generation Fails.
+2024-02-19 17:08:39,665 - Victim node is 115.
+2024-02-19 17:08:39,665 - tensor([ 3260,  4170, 20448], device='cuda:0')
+2024-02-19 17:08:39,665 - Classification Fails.
+2024-02-19 17:08:39,665 - Link Generation Fails.
+2024-02-19 17:26:19,067 - Victim node is 2368.
+2024-02-19 17:26:19,067 - tensor([ 4296, 22472, 22474], device='cuda:0')
+2024-02-19 17:26:19,068 - Classification Succeeds.
+2024-02-19 17:26:19,068 - Link Generation Succeeds.
+2024-02-19 17:44:00,792 - Victim node is 4342.
+2024-02-19 17:44:00,792 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-19 17:44:00,792 - Classification Fails.
+2024-02-19 17:44:00,792 - Link Generation Succeeds.
+2024-02-19 18:01:41,363 - Victim node is 7297.
+2024-02-19 18:01:41,363 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-19 18:01:41,364 - Classification Fails.
+2024-02-19 18:01:41,364 - Link Generation Succeeds.
+2024-02-19 18:19:14,950 - Victim node is 5204.
+2024-02-19 18:19:14,950 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-19 18:19:14,950 - Classification Fails.
+2024-02-19 18:19:14,950 - Link Generation Succeeds.
+2024-02-19 18:36:57,255 - Victim node is 10217.
+2024-02-19 18:36:57,255 - tensor([20415, 22473, 22474], device='cuda:0')
+2024-02-19 18:36:57,255 - Classification Fails.
+2024-02-19 18:36:57,255 - Link Generation Succeeds.
+2024-02-19 18:54:32,590 - Victim node is 8700.
+2024-02-19 18:54:32,590 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-19 18:54:32,591 - Classification Succeeds.
+2024-02-19 18:54:32,591 - Link Generation Succeeds.
+2024-02-19 19:12:16,621 - Victim node is 17107.
+2024-02-19 19:12:16,621 - tensor([10440, 16809, 20161], device='cuda:0')
+2024-02-19 19:12:16,621 - Classification Fails.
+2024-02-19 19:12:16,621 - Link Generation Fails.
+2024-02-19 19:29:56,969 - Victim node is 12901.
+2024-02-19 19:29:56,969 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-19 19:29:56,969 - Classification Fails.
+2024-02-19 19:29:56,969 - Link Generation Succeeds.
+2024-02-19 19:47:32,130 - Victim node is 3212.
+2024-02-19 19:47:32,130 - tensor([ 1722,  1783, 22471], device='cuda:0')
+2024-02-19 19:47:32,131 - Classification Succeeds.
+2024-02-19 19:47:32,131 - Link Generation Succeeds.
+2024-02-19 20:05:05,437 - Victim node is 11018.
+2024-02-19 20:05:05,437 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-19 20:05:05,438 - Classification Fails.
+2024-02-19 20:05:05,438 - Link Generation Succeeds.
+2024-02-19 20:22:46,298 - Victim node is 17811.
+2024-02-19 20:22:46,298 - tensor([ 2442, 14497, 16895], device='cuda:0')
+2024-02-19 20:22:46,298 - Classification Succeeds.
+2024-02-19 20:22:46,298 - Link Generation Fails.
+2024-02-19 20:40:25,568 - Victim node is 18841.
+2024-02-19 20:40:25,569 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-19 20:40:25,569 - Classification Fails.
+2024-02-19 20:40:25,569 - Link Generation Succeeds.
+2024-02-19 20:58:03,449 - Victim node is 2109.
+2024-02-19 20:58:03,449 - tensor([14497, 21120, 22472], device='cuda:0')
+2024-02-19 20:58:03,449 - Classification Fails.
+2024-02-19 20:58:03,449 - Link Generation Succeeds.
+2024-02-19 21:15:42,705 - Victim node is 15636.
+2024-02-19 21:15:42,705 - tensor([16052, 21120, 22473], device='cuda:0')
+2024-02-19 21:15:42,705 - Classification Succeeds.
+2024-02-19 21:15:42,705 - Link Generation Succeeds.
+2024-02-19 21:33:20,980 - Victim node is 19624.
+2024-02-19 21:33:20,980 - tensor([ 3070,  7357, 21491], device='cuda:0')
+2024-02-19 21:33:20,980 - Classification Fails.
+2024-02-19 21:33:20,980 - Link Generation Fails.
+2024-02-19 21:51:05,957 - Victim node is 12513.
+2024-02-19 21:51:05,957 - tensor([  364,  4296, 16809], device='cuda:0')
+2024-02-19 21:51:05,957 - Classification Succeeds.
+2024-02-19 21:51:05,957 - Link Generation Fails.
+2024-02-19 22:08:45,457 - Victim node is 20665.
+2024-02-19 22:08:45,458 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-19 22:08:45,458 - Classification Succeeds.
+2024-02-19 22:08:45,458 - Link Generation Fails.
+2024-02-19 22:26:34,901 - Victim node is 5603.
+2024-02-19 22:26:34,901 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-19 22:26:34,901 - Classification Fails.
+2024-02-19 22:26:34,902 - Link Generation Succeeds.
+2024-02-19 22:44:22,298 - Victim node is 15946.
+2024-02-19 22:44:22,298 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-19 22:44:22,298 - Classification Fails.
+2024-02-19 22:44:22,298 - Link Generation Succeeds.
+2024-02-19 23:02:10,956 - Victim node is 9381.
+2024-02-19 23:02:10,956 - tensor([ 1722,  4296, 22474], device='cuda:0')
+2024-02-19 23:02:10,956 - Classification Fails.
+2024-02-19 23:02:10,956 - Link Generation Succeeds.
+2024-02-19 23:19:59,488 - Victim node is 22117.
+2024-02-19 23:19:59,488 - tensor([ 3070, 14650, 20415], device='cuda:0')
+2024-02-19 23:19:59,489 - Classification Succeeds.
+2024-02-19 23:19:59,489 - Link Generation Fails.
+2024-02-19 23:37:52,323 - Victim node is 22286.
+2024-02-19 23:37:52,323 - tensor([14497, 22473, 22474], device='cuda:0')
+2024-02-19 23:37:52,324 - Classification Fails.
+2024-02-19 23:37:52,324 - Link Generation Succeeds.
+2024-02-19 23:55:47,989 - Victim node is 16603.
+2024-02-19 23:55:47,989 - tensor([ 3070, 14650, 20415], device='cuda:0')
+2024-02-19 23:55:47,989 - Classification Succeeds.
+2024-02-19 23:55:47,989 - Link Generation Fails.
+2024-02-20 00:13:45,069 - Victim node is 14222.
+2024-02-20 00:13:45,069 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 00:13:45,070 - Classification Fails.
+2024-02-20 00:13:45,070 - Link Generation Succeeds.
+2024-02-20 00:31:43,582 - Victim node is 20700.
+2024-02-20 00:31:43,582 - tensor([19743, 21729, 22474], device='cuda:0')
+2024-02-20 00:31:43,582 - Classification Succeeds.
+2024-02-20 00:31:43,583 - Link Generation Succeeds.
+2024-02-20 00:49:41,139 - Victim node is 21585.
+2024-02-20 00:49:41,139 - tensor([ 4296, 10851, 14735], device='cuda:0')
+2024-02-20 00:49:41,139 - Classification Succeeds.
+2024-02-20 00:49:41,139 - Link Generation Fails.
+2024-02-20 01:07:41,862 - Victim node is 13860.
+2024-02-20 01:07:41,863 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 01:07:41,863 - Classification Fails.
+2024-02-20 01:07:41,863 - Link Generation Succeeds.
+2024-02-20 01:25:43,518 - Victim node is 10620.
+2024-02-20 01:25:43,518 - tensor([10851, 13253, 14735], device='cuda:0')
+2024-02-20 01:25:43,518 - Classification Succeeds.
+2024-02-20 01:25:43,518 - Link Generation Fails.
+2024-02-20 01:43:46,219 - Victim node is 16983.
+2024-02-20 01:43:46,220 - tensor([22470, 22472, 22473], device='cuda:0')
+2024-02-20 01:43:46,220 - Classification Fails.
+2024-02-20 01:43:46,220 - Link Generation Succeeds.
+2024-02-20 02:01:51,146 - Victim node is 9513.
+2024-02-20 02:01:51,146 - tensor([ 3070, 14650, 20415], device='cuda:0')
+2024-02-20 02:01:51,146 - Classification Succeeds.
+2024-02-20 02:01:51,146 - Link Generation Fails.
+2024-02-20 02:19:55,068 - Victim node is 11364.
+2024-02-20 02:19:55,068 - tensor([19347, 19743, 21729], device='cuda:0')
+2024-02-20 02:19:55,068 - Classification Succeeds.
+2024-02-20 02:19:55,068 - Link Generation Fails.
+2024-02-20 02:38:00,087 - Victim node is 21051.
+2024-02-20 02:38:00,087 - tensor([  187, 11102, 16972], device='cuda:0')
+2024-02-20 02:38:00,087 - Classification Succeeds.
+2024-02-20 02:38:00,087 - Link Generation Fails.
+2024-02-20 02:56:04,073 - Victim node is 1424.
+2024-02-20 02:56:04,074 - tensor([ 1722,  5049, 16809], device='cuda:0')
+2024-02-20 02:56:04,074 - Classification Fails.
+2024-02-20 02:56:04,074 - Link Generation Fails.
+2024-02-20 03:14:10,261 - Victim node is 5512.
+2024-02-20 03:14:10,261 - tensor([ 4296, 22473, 22474], device='cuda:0')
+2024-02-20 03:14:10,262 - Classification Fails.
+2024-02-20 03:14:10,262 - Link Generation Succeeds.
+2024-02-20 03:32:16,016 - Victim node is 20321.
+2024-02-20 03:32:16,016 - tensor([ 1722,  5049, 16809], device='cuda:0')
+2024-02-20 03:32:16,016 - Classification Succeeds.
+2024-02-20 03:32:16,016 - Link Generation Fails.
+2024-02-20 03:50:22,089 - Victim node is 19478.
+2024-02-20 03:50:22,089 - tensor([13152, 14366, 14681], device='cuda:0')
+2024-02-20 03:50:22,090 - Classification Succeeds.
+2024-02-20 03:50:22,090 - Link Generation Fails.
+2024-02-20 04:08:28,722 - Victim node is 1450.
+2024-02-20 04:08:28,722 - tensor([10379, 16809, 19347], device='cuda:0')
+2024-02-20 04:08:28,723 - Classification Succeeds.
+2024-02-20 04:08:28,723 - Link Generation Fails.
+2024-02-20 04:26:35,161 - Victim node is 977.
+2024-02-20 04:26:35,161 - tensor([ 2442, 10379, 10426], device='cuda:0')
+2024-02-20 04:26:35,161 - Classification Succeeds.
+2024-02-20 04:26:35,161 - Link Generation Fails.
+2024-02-20 04:44:43,612 - Victim node is 16520.
+2024-02-20 04:44:43,612 - tensor([ 1387, 14497, 16895], device='cuda:0')
+2024-02-20 04:44:43,612 - Classification Succeeds.
+2024-02-20 04:44:43,612 - Link Generation Fails.
+2024-02-20 05:02:51,639 - Victim node is 5208.
+2024-02-20 05:02:51,639 - tensor([  364, 18155, 20415], device='cuda:0')
+2024-02-20 05:02:51,639 - Classification Succeeds.
+2024-02-20 05:02:51,639 - Link Generation Fails.
+2024-02-20 05:21:01,115 - Victim node is 1397.
+2024-02-20 05:21:01,116 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-20 05:21:01,116 - Classification Succeeds.
+2024-02-20 05:21:01,116 - Link Generation Fails.
+2024-02-20 05:39:07,874 - Victim node is 5426.
+2024-02-20 05:39:07,874 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-20 05:39:07,874 - Classification Succeeds.
+2024-02-20 05:39:07,874 - Link Generation Fails.
+2024-02-20 05:57:14,296 - Victim node is 6938.
+2024-02-20 05:57:14,296 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-20 05:57:14,296 - Classification Succeeds.
+2024-02-20 05:57:14,296 - Link Generation Succeeds.
+2024-02-20 06:15:21,849 - Victim node is 3131.
+2024-02-20 06:15:21,849 - tensor([ 3070, 13294, 21120], device='cuda:0')
+2024-02-20 06:15:21,849 - Classification Succeeds.
+2024-02-20 06:15:21,849 - Link Generation Fails.
+2024-02-20 06:33:26,970 - Victim node is 7760.
+2024-02-20 06:33:26,970 - tensor([13294, 14650, 21120], device='cuda:0')
+2024-02-20 06:33:26,971 - Classification Succeeds.
+2024-02-20 06:33:26,971 - Link Generation Fails.
+2024-02-20 06:51:35,815 - Victim node is 4882.
+2024-02-20 06:51:35,815 - tensor([ 8505, 18056, 20415], device='cuda:0')
+2024-02-20 06:51:35,816 - Classification Succeeds.
+2024-02-20 06:51:35,816 - Link Generation Fails.
+2024-02-20 07:09:43,763 - Victim node is 15642.
+2024-02-20 07:09:43,763 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-20 07:09:43,763 - Classification Fails.
+2024-02-20 07:09:43,763 - Link Generation Succeeds.
+2024-02-20 07:27:52,952 - Victim node is 11913.
+2024-02-20 07:27:52,952 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-20 07:27:52,953 - Classification Succeeds.
+2024-02-20 07:27:52,953 - Link Generation Fails.
+2024-02-20 07:46:04,757 - Victim node is 17883.
+2024-02-20 07:46:04,758 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-20 07:46:04,758 - Classification Succeeds.
+2024-02-20 07:46:04,758 - Link Generation Succeeds.
+2024-02-20 08:04:19,492 - Victim node is 3641.
+2024-02-20 08:04:19,492 - tensor([13294, 16960, 21120], device='cuda:0')
+2024-02-20 08:04:19,492 - Classification Succeeds.
+2024-02-20 08:04:19,492 - Link Generation Fails.
+2024-02-20 08:21:59,675 - Victim node is 1779.
+2024-02-20 08:21:59,675 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-20 08:21:59,675 - Classification Fails.
+2024-02-20 08:21:59,675 - Link Generation Fails.
+2024-02-20 08:39:28,824 - Victim node is 5228.
+2024-02-20 08:39:28,825 - tensor([14497, 22473, 22474], device='cuda:0')
+2024-02-20 08:39:28,825 - Classification Fails.
+2024-02-20 08:39:28,825 - Link Generation Succeeds.
+2024-02-20 08:56:53,551 - Victim node is 13110.
+2024-02-20 08:56:53,551 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 08:56:53,552 - Classification Fails.
+2024-02-20 08:56:53,552 - Link Generation Succeeds.
+2024-02-20 09:14:28,712 - Victim node is 8168.
+2024-02-20 09:14:28,712 - tensor([ 8188, 15986, 17523], device='cuda:0')
+2024-02-20 09:14:28,712 - Classification Succeeds.
+2024-02-20 09:14:28,712 - Link Generation Fails.
+2024-02-20 09:31:50,924 - Victim node is 19423.
+2024-02-20 09:31:50,924 - tensor([ 4296, 17392, 22472], device='cuda:0')
+2024-02-20 09:31:50,924 - Classification Fails.
+2024-02-20 09:31:50,924 - Link Generation Succeeds.
+2024-02-20 09:49:17,262 - Victim node is 19823.
+2024-02-20 09:49:17,262 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-20 09:49:17,262 - Classification Fails.
+2024-02-20 09:49:17,262 - Link Generation Succeeds.
+2024-02-20 10:06:39,874 - Victim node is 6113.
+2024-02-20 10:06:39,874 - tensor([14650, 16972, 20415], device='cuda:0')
+2024-02-20 10:06:39,875 - Classification Succeeds.
+2024-02-20 10:06:39,875 - Link Generation Fails.
+2024-02-20 10:24:00,018 - Victim node is 17748.
+2024-02-20 10:24:00,018 - tensor([10851, 14735, 22124], device='cuda:0')
+2024-02-20 10:24:00,018 - Classification Succeeds.
+2024-02-20 10:24:00,018 - Link Generation Fails.
+2024-02-20 10:41:21,856 - Victim node is 17676.
+2024-02-20 10:41:21,856 - tensor([ 3533, 13525, 20415], device='cuda:0')
+2024-02-20 10:41:21,856 - Classification Fails.
+2024-02-20 10:41:21,857 - Link Generation Fails.
+2024-02-20 10:58:47,771 - Victim node is 9308.
+2024-02-20 10:58:47,771 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-20 10:58:47,771 - Classification Fails.
+2024-02-20 10:58:47,771 - Link Generation Fails.
+2024-02-20 11:16:12,860 - Victim node is 4861.
+2024-02-20 11:16:12,861 - tensor([ 4296,  8188, 14735], device='cuda:0')
+2024-02-20 11:16:12,861 - Classification Succeeds.
+2024-02-20 11:16:12,861 - Link Generation Fails.
+2024-02-20 11:33:40,441 - Victim node is 16730.
+2024-02-20 11:33:40,441 - tensor([ 4296,  8188, 15986], device='cuda:0')
+2024-02-20 11:33:40,442 - Classification Fails.
+2024-02-20 11:33:40,442 - Link Generation Fails.
+2024-02-20 11:51:07,663 - Victim node is 15237.
+2024-02-20 11:51:07,663 - tensor([ 1722, 10440, 16809], device='cuda:0')
+2024-02-20 11:51:07,663 - Classification Succeeds.
+2024-02-20 11:51:07,663 - Link Generation Fails.
+2024-02-20 12:08:31,282 - Victim node is 10696.
+2024-02-20 12:08:31,283 - tensor([ 4296, 22470, 22471], device='cuda:0')
+2024-02-20 12:08:31,283 - Classification Succeeds.
+2024-02-20 12:08:31,283 - Link Generation Succeeds.
+2024-02-20 12:25:44,347 - Victim node is 10663.
+2024-02-20 12:25:44,347 - tensor([ 4296, 10851, 14735], device='cuda:0')
+2024-02-20 12:25:44,347 - Classification Succeeds.
+2024-02-20 12:25:44,347 - Link Generation Fails.
+2024-02-20 12:43:02,293 - Victim node is 21554.
+2024-02-20 12:43:02,293 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-20 12:43:02,293 - Classification Fails.
+2024-02-20 12:43:02,293 - Link Generation Succeeds.
+2024-02-20 13:00:18,260 - Victim node is 2263.
+2024-02-20 13:00:18,260 - tensor([ 3070, 20415, 21491], device='cuda:0')
+2024-02-20 13:00:18,260 - Classification Succeeds.
+2024-02-20 13:00:18,260 - Link Generation Fails.
+2024-02-20 13:17:36,328 - Victim node is 13961.
+2024-02-20 13:17:36,328 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-20 13:17:36,328 - Classification Succeeds.
+2024-02-20 13:17:36,329 - Link Generation Fails.
+2024-02-20 13:34:51,761 - Victim node is 7801.
+2024-02-20 13:34:51,761 - tensor([14497, 22470, 22471], device='cuda:0')
+2024-02-20 13:34:51,761 - Classification Succeeds.
+2024-02-20 13:34:51,761 - Link Generation Succeeds.
+2024-02-20 13:52:09,543 - Victim node is 5298.
+2024-02-20 13:52:09,543 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-20 13:52:09,543 - Classification Fails.
+2024-02-20 13:52:09,543 - Link Generation Succeeds.
+2024-02-20 14:09:26,036 - Victim node is 19363.
+2024-02-20 14:09:26,036 - tensor([ 3070, 16809, 20415], device='cuda:0')
+2024-02-20 14:09:26,036 - Classification Succeeds.
+2024-02-20 14:09:26,036 - Link Generation Fails.
+2024-02-20 14:26:40,350 - Victim node is 18692.
+2024-02-20 14:26:40,350 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-20 14:26:40,350 - Classification Fails.
+2024-02-20 14:26:40,350 - Link Generation Succeeds.
+2024-02-20 14:43:56,361 - Victim node is 5321.
+2024-02-20 14:43:56,361 - tensor([ 4296, 17392, 22471], device='cuda:0')
+2024-02-20 14:43:56,361 - Classification Fails.
+2024-02-20 14:43:56,361 - Link Generation Succeeds.
+2024-02-20 15:01:14,444 - Victim node is 12215.
+2024-02-20 15:01:14,444 - tensor([1722, 2124, 4296], device='cuda:0')
+2024-02-20 15:01:14,444 - Classification Fails.
+2024-02-20 15:01:14,445 - Link Generation Fails.
+2024-02-20 15:18:31,250 - Victim node is 3662.
+2024-02-20 15:18:31,250 - tensor([14497, 16895, 22471], device='cuda:0')
+2024-02-20 15:18:31,251 - Classification Succeeds.
+2024-02-20 15:18:31,251 - Link Generation Succeeds.
+2024-02-20 15:35:44,709 - Victim node is 17101.
+2024-02-20 15:35:44,709 - tensor([14366, 14681, 20415], device='cuda:0')
+2024-02-20 15:35:44,709 - Classification Succeeds.
+2024-02-20 15:35:44,709 - Link Generation Fails.
+2024-02-20 15:53:01,287 - Victim node is 8974.
+2024-02-20 15:53:01,288 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-20 15:53:01,288 - Classification Succeeds.
+2024-02-20 15:53:01,288 - Link Generation Succeeds.
+2024-02-20 16:10:16,614 - Victim node is 6055.
+2024-02-20 16:10:16,614 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-20 16:10:16,614 - Classification Succeeds.
+2024-02-20 16:10:16,614 - Link Generation Succeeds.
+2024-02-20 16:27:33,452 - Victim node is 18746.
+2024-02-20 16:27:33,452 - tensor([ 1722,  8505, 18056], device='cuda:0')
+2024-02-20 16:27:33,453 - Classification Succeeds.
+2024-02-20 16:27:33,453 - Link Generation Fails.
+2024-02-20 16:44:43,520 - Victim node is 16436.
+2024-02-20 16:44:43,520 - tensor([14650, 16809, 20415], device='cuda:0')
+2024-02-20 16:44:43,521 - Classification Succeeds.
+2024-02-20 16:44:43,521 - Link Generation Fails.
+2024-02-20 17:02:00,438 - Victim node is 1172.
+2024-02-20 17:02:00,438 - tensor([  909,  4296, 12677], device='cuda:0')
+2024-02-20 17:02:00,439 - Classification Succeeds.
+2024-02-20 17:02:00,439 - Link Generation Fails.
+2024-02-20 17:19:14,234 - Victim node is 4370.
+2024-02-20 17:19:14,234 - tensor([  187, 11102, 22472], device='cuda:0')
+2024-02-20 17:19:14,234 - Classification Succeeds.
+2024-02-20 17:19:14,234 - Link Generation Succeeds.
+2024-02-20 17:36:30,044 - Victim node is 15458.
+2024-02-20 17:36:30,044 - tensor([ 1722, 14161, 14205], device='cuda:0')
+2024-02-20 17:36:30,045 - Classification Fails.
+2024-02-20 17:36:30,045 - Link Generation Fails.
+2024-02-20 17:53:46,890 - Victim node is 19523.
+2024-02-20 17:53:46,890 - tensor([ 3070,  7357, 21491], device='cuda:0')
+2024-02-20 17:53:46,891 - Classification Fails.
+2024-02-20 17:53:46,891 - Link Generation Fails.
+2024-02-20 18:11:07,095 - Victim node is 4247.
+2024-02-20 18:11:07,095 - tensor([ 7996, 13152, 14681], device='cuda:0')
+2024-02-20 18:11:07,096 - Classification Fails.
+2024-02-20 18:11:07,096 - Link Generation Fails.
+2024-02-20 18:28:26,551 - Victim node is 14508.
+2024-02-20 18:28:26,551 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 18:28:26,551 - Classification Succeeds.
+2024-02-20 18:28:26,551 - Link Generation Succeeds.
+2024-02-20 18:45:42,510 - Victim node is 12721.
+2024-02-20 18:45:42,510 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 18:45:42,510 - Classification Succeeds.
+2024-02-20 18:45:42,510 - Link Generation Succeeds.
+2024-02-20 19:02:57,764 - Victim node is 5864.
+2024-02-20 19:02:57,764 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-20 19:02:57,764 - Classification Fails.
+2024-02-20 19:02:57,764 - Link Generation Succeeds.
+2024-02-20 19:20:10,001 - Victim node is 4296.
+2024-02-20 19:20:10,001 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 19:20:10,002 - Classification Succeeds.
+2024-02-20 19:20:10,002 - Link Generation Succeeds.
+2024-02-20 19:37:19,923 - Victim node is 18007.
+2024-02-20 19:37:19,923 - tensor([ 1722,  8188, 15986], device='cuda:0')
+2024-02-20 19:37:19,924 - Classification Succeeds.
+2024-02-20 19:37:19,924 - Link Generation Fails.
+2024-02-20 19:54:30,068 - Victim node is 3916.
+2024-02-20 19:54:30,068 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-20 19:54:30,068 - Classification Fails.
+2024-02-20 19:54:30,068 - Link Generation Succeeds.
+2024-02-20 20:11:50,851 - Victim node is 13067.
+2024-02-20 20:11:50,851 - tensor([11102, 16972, 20415], device='cuda:0')
+2024-02-20 20:11:50,851 - Classification Succeeds.
+2024-02-20 20:11:50,852 - Link Generation Fails.
+2024-02-20 20:29:04,752 - Victim node is 8794.
+2024-02-20 20:29:04,752 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-20 20:29:04,752 - Classification Fails.
+2024-02-20 20:29:04,752 - Link Generation Succeeds.
+2024-02-20 20:46:18,999 - Victim node is 17905.
+2024-02-20 20:46:18,999 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-20 20:46:19,000 - Classification Fails.
+2024-02-20 20:46:19,000 - Link Generation Succeeds.
+2024-02-20 21:03:39,714 - Victim node is 3522.
+2024-02-20 21:03:39,714 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-20 21:03:39,714 - Classification Succeeds.
+2024-02-20 21:03:39,714 - Link Generation Succeeds.
+2024-02-20 21:20:52,143 - Victim node is 12403.
+2024-02-20 21:20:52,143 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-20 21:20:52,143 - Classification Succeeds.
+2024-02-20 21:20:52,143 - Link Generation Fails.
+2024-02-20 21:38:06,774 - Victim node is 6625.
+2024-02-20 21:38:06,774 - tensor([  364, 13294, 21120], device='cuda:0')
+2024-02-20 21:38:06,774 - Classification Succeeds.
+2024-02-20 21:38:06,774 - Link Generation Fails.
+2024-02-20 21:55:16,640 - Victim node is 9596.
+2024-02-20 21:55:16,640 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 21:55:16,641 - Classification Fails.
+2024-02-20 21:55:16,641 - Link Generation Succeeds.
+2024-02-20 22:12:31,779 - Victim node is 6112.
+2024-02-20 22:12:31,779 - tensor([ 1722,  8505, 15713], device='cuda:0')
+2024-02-20 22:12:31,779 - Classification Succeeds.
+2024-02-20 22:12:31,780 - Link Generation Fails.
+2024-02-20 22:29:49,059 - Victim node is 8773.
+2024-02-20 22:29:49,059 - tensor([ 3070,  7357, 21491], device='cuda:0')
+2024-02-20 22:29:49,059 - Classification Succeeds.
+2024-02-20 22:29:49,059 - Link Generation Fails.
+2024-02-20 22:47:02,096 - Victim node is 11563.
+2024-02-20 22:47:02,096 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-20 22:47:02,096 - Classification Succeeds.
+2024-02-20 22:47:02,096 - Link Generation Succeeds.
+2024-02-20 23:04:20,379 - Victim node is 19883.
+2024-02-20 23:04:20,379 - tensor([ 3070,  7357, 21491], device='cuda:0')
+2024-02-20 23:04:20,380 - Classification Succeeds.
+2024-02-20 23:04:20,380 - Link Generation Fails.
+2024-02-20 23:21:34,321 - Victim node is 18097.
+2024-02-20 23:21:34,321 - tensor([ 1783, 14650, 20415], device='cuda:0')
+2024-02-20 23:21:34,321 - Classification Succeeds.
+2024-02-20 23:21:34,321 - Link Generation Fails.
+2024-02-20 23:38:47,953 - Victim node is 7859.
+2024-02-20 23:38:47,953 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-20 23:38:47,953 - Classification Succeeds.
+2024-02-20 23:38:47,954 - Link Generation Fails.
+2024-02-20 23:56:05,939 - Victim node is 3002.
+2024-02-20 23:56:05,939 - tensor([ 8505, 18056, 22474], device='cuda:0')
+2024-02-20 23:56:05,939 - Classification Fails.
+2024-02-20 23:56:05,939 - Link Generation Succeeds.
+2024-02-21 00:13:16,036 - Victim node is 4476.
+2024-02-21 00:13:16,036 - tensor([ 2114,  4296, 18409], device='cuda:0')
+2024-02-21 00:13:16,036 - Classification Succeeds.
+2024-02-21 00:13:16,036 - Link Generation Fails.
+2024-02-21 00:30:25,586 - Victim node is 20409.
+2024-02-21 00:30:25,586 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 00:30:25,587 - Classification Fails.
+2024-02-21 00:30:25,587 - Link Generation Succeeds.
+2024-02-21 00:47:35,268 - Victim node is 8521.
+2024-02-21 00:47:35,268 - tensor([ 1722, 14161, 20990], device='cuda:0')
+2024-02-21 00:47:35,269 - Classification Fails.
+2024-02-21 00:47:35,269 - Link Generation Fails.
+2024-02-21 01:04:48,684 - Victim node is 127.
+2024-02-21 01:04:48,684 - tensor([ 1387, 14497, 22474], device='cuda:0')
+2024-02-21 01:04:48,684 - Classification Fails.
+2024-02-21 01:04:48,684 - Link Generation Succeeds.
+2024-02-21 01:22:00,671 - Victim node is 9369.
+2024-02-21 01:22:00,671 - tensor([2114, 4296, 7178], device='cuda:0')
+2024-02-21 01:22:00,671 - Classification Fails.
+2024-02-21 01:22:00,671 - Link Generation Fails.
+2024-02-21 01:39:19,277 - Victim node is 7271.
+2024-02-21 01:39:19,277 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 01:39:19,277 - Classification Succeeds.
+2024-02-21 01:39:19,277 - Link Generation Succeeds.
+2024-02-21 01:56:40,058 - Victim node is 18047.
+2024-02-21 01:56:40,058 - tensor([13525, 22472, 22474], device='cuda:0')
+2024-02-21 01:56:40,058 - Classification Fails.
+2024-02-21 01:56:40,058 - Link Generation Succeeds.
+2024-02-21 02:14:00,897 - Victim node is 5854.
+2024-02-21 02:14:00,898 - tensor([  364, 16052, 21120], device='cuda:0')
+2024-02-21 02:14:00,898 - Classification Succeeds.
+2024-02-21 02:14:00,898 - Link Generation Fails.
+2024-02-21 02:31:13,468 - Victim node is 6795.
+2024-02-21 02:31:13,468 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-21 02:31:13,468 - Classification Fails.
+2024-02-21 02:31:13,468 - Link Generation Succeeds.
+2024-02-21 02:48:31,961 - Victim node is 2655.
+2024-02-21 02:48:31,962 - tensor([14497, 22472, 22474], device='cuda:0')
+2024-02-21 02:48:31,962 - Classification Fails.
+2024-02-21 02:48:31,962 - Link Generation Succeeds.
+2024-02-21 03:05:46,671 - Victim node is 3537.
+2024-02-21 03:05:46,671 - tensor([ 8505, 12361, 21922], device='cuda:0')
+2024-02-21 03:05:46,671 - Classification Succeeds.
+2024-02-21 03:05:46,671 - Link Generation Fails.
+2024-02-21 03:23:02,270 - Victim node is 11826.
+2024-02-21 03:23:02,270 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-21 03:23:02,270 - Classification Succeeds.
+2024-02-21 03:23:02,270 - Link Generation Succeeds.
+2024-02-21 03:40:12,663 - Victim node is 14380.
+2024-02-21 03:40:12,663 - tensor([ 1722, 16809, 21120], device='cuda:0')
+2024-02-21 03:40:12,663 - Classification Succeeds.
+2024-02-21 03:40:12,663 - Link Generation Fails.
+2024-02-21 03:57:28,087 - Victim node is 14009.
+2024-02-21 03:57:28,087 - tensor([ 2114,  4296, 17392], device='cuda:0')
+2024-02-21 03:57:28,087 - Classification Succeeds.
+2024-02-21 03:57:28,087 - Link Generation Fails.
+2024-02-21 04:14:41,594 - Victim node is 10573.
+2024-02-21 04:14:41,594 - tensor([10851, 14681, 22471], device='cuda:0')
+2024-02-21 04:14:41,594 - Classification Succeeds.
+2024-02-21 04:14:41,594 - Link Generation Succeeds.
+2024-02-21 04:31:55,524 - Victim node is 11181.
+2024-02-21 04:31:55,524 - tensor([13294, 16809, 21120], device='cuda:0')
+2024-02-21 04:31:55,525 - Classification Succeeds.
+2024-02-21 04:31:55,525 - Link Generation Fails.
+2024-02-21 04:49:17,027 - Victim node is 12740.
+2024-02-21 04:49:17,027 - tensor([ 2442, 16809, 22472], device='cuda:0')
+2024-02-21 04:49:17,027 - Classification Succeeds.
+2024-02-21 04:49:17,028 - Link Generation Succeeds.
+2024-02-21 05:06:30,753 - Victim node is 20088.
+2024-02-21 05:06:30,753 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-21 05:06:30,753 - Classification Fails.
+2024-02-21 05:06:30,753 - Link Generation Succeeds.
+2024-02-21 05:23:47,900 - Victim node is 1093.
+2024-02-21 05:23:47,900 - tensor([15714, 18056, 21922], device='cuda:0')
+2024-02-21 05:23:47,901 - Classification Succeeds.
+2024-02-21 05:23:47,901 - Link Generation Fails.
+2024-02-21 05:40:56,919 - Victim node is 13619.
+2024-02-21 05:40:56,920 - tensor([  61, 2597, 7250], device='cuda:0')
+2024-02-21 05:40:56,920 - Classification Succeeds.
+2024-02-21 05:40:56,920 - Link Generation Fails.
+2024-02-21 05:58:12,244 - Victim node is 3465.
+2024-02-21 05:58:12,244 - tensor([ 3070, 21120, 21491], device='cuda:0')
+2024-02-21 05:58:12,244 - Classification Succeeds.
+2024-02-21 05:58:12,245 - Link Generation Fails.
+2024-02-21 06:15:26,711 - Victim node is 18291.
+2024-02-21 06:15:26,711 - tensor([ 7178, 10851, 14735], device='cuda:0')
+2024-02-21 06:15:26,711 - Classification Succeeds.
+2024-02-21 06:15:26,711 - Link Generation Fails.
+2024-02-21 06:32:36,410 - Victim node is 8130.
+2024-02-21 06:32:36,410 - tensor([ 2409,  3533, 13525], device='cuda:0')
+2024-02-21 06:32:36,411 - Classification Succeeds.
+2024-02-21 06:32:36,411 - Link Generation Fails.
+2024-02-21 06:49:56,778 - Victim node is 21006.
+2024-02-21 06:49:56,778 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-21 06:49:56,778 - Classification Succeeds.
+2024-02-21 06:49:56,778 - Link Generation Fails.
+2024-02-21 07:07:14,204 - Victim node is 14831.
+2024-02-21 07:07:14,204 - tensor([1300, 4275, 4296], device='cuda:0')
+2024-02-21 07:07:14,204 - Classification Succeeds.
+2024-02-21 07:07:14,204 - Link Generation Fails.
+2024-02-21 07:24:25,214 - Victim node is 14919.
+2024-02-21 07:24:25,214 - tensor([ 4296, 22470, 22471], device='cuda:0')
+2024-02-21 07:24:25,214 - Classification Succeeds.
+2024-02-21 07:24:25,214 - Link Generation Succeeds.
+2024-02-21 07:41:43,393 - Victim node is 14121.
+2024-02-21 07:41:43,393 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 07:41:43,394 - Classification Fails.
+2024-02-21 07:41:43,394 - Link Generation Succeeds.
+2024-02-21 07:59:08,914 - Victim node is 3027.
+2024-02-21 07:59:08,914 - tensor([20415, 22470, 22473], device='cuda:0')
+2024-02-21 07:59:08,915 - Classification Fails.
+2024-02-21 07:59:08,915 - Link Generation Succeeds.
+2024-02-21 08:16:21,428 - Victim node is 4995.
+2024-02-21 08:16:21,428 - tensor([  406, 11102, 16972], device='cuda:0')
+2024-02-21 08:16:21,429 - Classification Succeeds.
+2024-02-21 08:16:21,429 - Link Generation Fails.
+2024-02-21 08:33:39,803 - Victim node is 16945.
+2024-02-21 08:33:39,803 - tensor([ 1722,  4296, 16809], device='cuda:0')
+2024-02-21 08:33:39,803 - Classification Succeeds.
+2024-02-21 08:33:39,803 - Link Generation Fails.
+2024-02-21 08:50:55,741 - Victim node is 5917.
+2024-02-21 08:50:55,741 - tensor([  126, 11537, 22472], device='cuda:0')
+2024-02-21 08:50:55,741 - Classification Succeeds.
+2024-02-21 08:50:55,741 - Link Generation Succeeds.
+2024-02-21 09:08:14,891 - Victim node is 13919.
+2024-02-21 09:08:14,891 - tensor([14161, 14205, 20990], device='cuda:0')
+2024-02-21 09:08:14,892 - Classification Succeeds.
+2024-02-21 09:08:14,892 - Link Generation Fails.
+2024-02-21 09:25:27,208 - Victim node is 5107.
+2024-02-21 09:25:27,208 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-21 09:25:27,208 - Classification Succeeds.
+2024-02-21 09:25:27,208 - Link Generation Succeeds.
+2024-02-21 09:42:48,201 - Victim node is 5221.
+2024-02-21 09:42:48,201 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-21 09:42:48,201 - Classification Fails.
+2024-02-21 09:42:48,201 - Link Generation Succeeds.
+2024-02-21 09:59:59,298 - Victim node is 14003.
+2024-02-21 09:59:59,299 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 09:59:59,299 - Classification Succeeds.
+2024-02-21 09:59:59,299 - Link Generation Succeeds.
+2024-02-21 10:17:20,508 - Victim node is 2006.
+2024-02-21 10:17:20,508 - tensor([14497, 22472, 22473], device='cuda:0')
+2024-02-21 10:17:20,508 - Classification Fails.
+2024-02-21 10:17:20,508 - Link Generation Succeeds.
+2024-02-21 10:34:41,171 - Victim node is 8778.
+2024-02-21 10:34:41,172 - tensor([ 1722,  1783, 17833], device='cuda:0')
+2024-02-21 10:34:41,172 - Classification Fails.
+2024-02-21 10:34:41,172 - Link Generation Fails.
+2024-02-21 10:51:54,215 - Victim node is 7941.
+2024-02-21 10:51:54,215 - tensor([ 4296,  8188, 18349], device='cuda:0')
+2024-02-21 10:51:54,215 - Classification Succeeds.
+2024-02-21 10:51:54,216 - Link Generation Fails.
+2024-02-21 11:09:11,919 - Victim node is 1456.
+2024-02-21 11:09:11,919 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-21 11:09:11,919 - Classification Succeeds.
+2024-02-21 11:09:11,919 - Link Generation Succeeds.
+2024-02-21 11:26:32,565 - Victim node is 19685.
+2024-02-21 11:26:32,565 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-21 11:26:32,565 - Classification Succeeds.
+2024-02-21 11:26:32,565 - Link Generation Fails.
+2024-02-21 11:43:46,344 - Victim node is 8473.
+2024-02-21 11:43:46,344 - tensor([14497, 19743, 21729], device='cuda:0')
+2024-02-21 11:43:46,344 - Classification Succeeds.
+2024-02-21 11:43:46,344 - Link Generation Fails.
+2024-02-21 12:00:58,451 - Victim node is 16692.
+2024-02-21 12:00:58,451 - tensor([14497, 16895, 22472], device='cuda:0')
+2024-02-21 12:00:58,452 - Classification Succeeds.
+2024-02-21 12:00:58,452 - Link Generation Succeeds.
+2024-02-21 12:18:12,245 - Victim node is 15315.
+2024-02-21 12:18:12,245 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-21 12:18:12,245 - Classification Succeeds.
+2024-02-21 12:18:12,245 - Link Generation Fails.
+2024-02-21 12:35:28,687 - Victim node is 22418.
+2024-02-21 12:35:28,688 - tensor([14497, 22470, 22472], device='cuda:0')
+2024-02-21 12:35:28,688 - Classification Succeeds.
+2024-02-21 12:35:28,688 - Link Generation Succeeds.
+2024-02-21 12:52:39,797 - Victim node is 2015.
+2024-02-21 12:52:39,797 - tensor([ 4296, 12677, 17392], device='cuda:0')
+2024-02-21 12:52:39,797 - Classification Succeeds.
+2024-02-21 12:52:39,798 - Link Generation Fails.
+2024-02-21 13:09:48,716 - Victim node is 5368.
+2024-02-21 13:09:48,716 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-21 13:09:48,716 - Classification Succeeds.
+2024-02-21 13:09:48,716 - Link Generation Fails.
+2024-02-21 13:27:00,566 - Victim node is 13275.
+2024-02-21 13:27:00,566 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-21 13:27:00,566 - Classification Succeeds.
+2024-02-21 13:27:00,566 - Link Generation Fails.
+2024-02-21 13:44:12,386 - Victim node is 6578.
+2024-02-21 13:44:12,387 - tensor([13294, 14497, 21120], device='cuda:0')
+2024-02-21 13:44:12,387 - Classification Fails.
+2024-02-21 13:44:12,387 - Link Generation Fails.
+2024-02-21 14:01:32,763 - Victim node is 13415.
+2024-02-21 14:01:32,763 - tensor([10379, 19743, 21120], device='cuda:0')
+2024-02-21 14:01:32,763 - Classification Succeeds.
+2024-02-21 14:01:32,763 - Link Generation Fails.
+2024-02-21 14:18:47,501 - Victim node is 4265.
+2024-02-21 14:18:47,501 - tensor([ 4296, 17392, 18952], device='cuda:0')
+2024-02-21 14:18:47,502 - Classification Succeeds.
+2024-02-21 14:18:47,502 - Link Generation Fails.
+2024-02-21 14:36:00,622 - Victim node is 15325.
+2024-02-21 14:36:00,622 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 14:36:00,623 - Classification Fails.
+2024-02-21 14:36:00,623 - Link Generation Succeeds.
+2024-02-21 14:53:26,234 - Victim node is 3079.
+2024-02-21 14:53:26,235 - tensor([ 3630,  5183, 18906], device='cuda:0')
+2024-02-21 14:53:26,235 - Classification Succeeds.
+2024-02-21 14:53:26,235 - Link Generation Fails.
+2024-02-21 15:10:49,427 - Victim node is 12035.
+2024-02-21 15:10:49,427 - tensor([1722, 1783, 8669], device='cuda:0')
+2024-02-21 15:10:49,428 - Classification Succeeds.
+2024-02-21 15:10:49,428 - Link Generation Fails.
+2024-02-21 15:27:59,654 - Victim node is 15004.
+2024-02-21 15:27:59,654 - tensor([13294, 19743, 21120], device='cuda:0')
+2024-02-21 15:27:59,654 - Classification Succeeds.
+2024-02-21 15:27:59,654 - Link Generation Fails.
+2024-02-21 15:45:15,507 - Victim node is 8031.
+2024-02-21 15:45:15,507 - tensor([13294, 14650, 21120], device='cuda:0')
+2024-02-21 15:45:15,508 - Classification Fails.
+2024-02-21 15:45:15,508 - Link Generation Fails.
+2024-02-21 16:02:40,073 - Victim node is 20292.
+2024-02-21 16:02:40,073 - tensor([ 1722,  1783, 22474], device='cuda:0')
+2024-02-21 16:02:40,074 - Classification Fails.
+2024-02-21 16:02:40,074 - Link Generation Succeeds.
+2024-02-21 16:19:55,724 - Victim node is 6759.
+2024-02-21 16:19:55,724 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 16:19:55,724 - Classification Fails.
+2024-02-21 16:19:55,724 - Link Generation Succeeds.
+2024-02-21 16:37:06,459 - Victim node is 15758.
+2024-02-21 16:37:06,459 - tensor([16809, 22470, 22472], device='cuda:0')
+2024-02-21 16:37:06,459 - Classification Succeeds.
+2024-02-21 16:37:06,460 - Link Generation Succeeds.
+2024-02-21 16:54:16,301 - Victim node is 6572.
+2024-02-21 16:54:16,301 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-21 16:54:16,301 - Classification Succeeds.
+2024-02-21 16:54:16,301 - Link Generation Fails.
+2024-02-21 17:11:25,817 - Victim node is 20710.
+2024-02-21 17:11:25,817 - tensor([ 1722, 16809, 20415], device='cuda:0')
+2024-02-21 17:11:25,818 - Classification Succeeds.
+2024-02-21 17:11:25,818 - Link Generation Fails.
+2024-02-21 17:28:40,100 - Victim node is 7005.
+2024-02-21 17:28:40,100 - tensor([  364,  2323, 15713], device='cuda:0')
+2024-02-21 17:28:40,101 - Classification Fails.
+2024-02-21 17:28:40,101 - Link Generation Fails.
+2024-02-21 17:46:05,829 - Victim node is 3266.
+2024-02-21 17:46:05,829 - tensor([ 1722,  5049, 22474], device='cuda:0')
+2024-02-21 17:46:05,830 - Classification Fails.
+2024-02-21 17:46:05,830 - Link Generation Succeeds.
+2024-02-21 18:03:20,606 - Victim node is 911.
+2024-02-21 18:03:20,606 - tensor([   61,  4296, 17392], device='cuda:0')
+2024-02-21 18:03:20,607 - Classification Succeeds.
+2024-02-21 18:03:20,607 - Link Generation Fails.
+2024-02-21 18:20:31,132 - Victim node is 2033.
+2024-02-21 18:20:31,132 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 18:20:31,133 - Classification Fails.
+2024-02-21 18:20:31,133 - Link Generation Succeeds.
+2024-02-21 18:37:49,884 - Victim node is 1638.
+2024-02-21 18:37:49,884 - tensor([ 8139, 19743, 21729], device='cuda:0')
+2024-02-21 18:37:49,884 - Classification Succeeds.
+2024-02-21 18:37:49,884 - Link Generation Fails.
+2024-02-21 18:55:05,651 - Victim node is 433.
+2024-02-21 18:55:05,651 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-21 18:55:05,651 - Classification Succeeds.
+2024-02-21 18:55:05,652 - Link Generation Succeeds.
+2024-02-21 19:12:15,091 - Victim node is 1805.
+2024-02-21 19:12:15,091 - tensor([  187, 11102, 16972], device='cuda:0')
+2024-02-21 19:12:15,091 - Classification Succeeds.
+2024-02-21 19:12:15,091 - Link Generation Fails.
+2024-02-21 19:29:31,012 - Victim node is 17945.
+2024-02-21 19:29:31,012 - tensor([10851, 14681, 14735], device='cuda:0')
+2024-02-21 19:29:31,012 - Classification Succeeds.
+2024-02-21 19:29:31,012 - Link Generation Fails.
+2024-02-21 19:46:47,013 - Victim node is 11522.
+2024-02-21 19:46:47,013 - tensor([ 3070,  7357, 21491], device='cuda:0')
+2024-02-21 19:46:47,014 - Classification Succeeds.
+2024-02-21 19:46:47,014 - Link Generation Fails.
+2024-02-21 20:04:11,014 - Victim node is 19569.
+2024-02-21 20:04:11,014 - tensor([17056, 18155, 20415], device='cuda:0')
+2024-02-21 20:04:11,014 - Classification Succeeds.
+2024-02-21 20:04:11,014 - Link Generation Fails.
+2024-02-21 20:21:34,100 - Victim node is 7195.
+2024-02-21 20:21:34,100 - tensor([  187, 11102, 22471], device='cuda:0')
+2024-02-21 20:21:34,100 - Classification Fails.
+2024-02-21 20:21:34,101 - Link Generation Succeeds.
+2024-02-21 20:38:54,337 - Victim node is 6154.
+2024-02-21 20:38:54,337 - tensor([13294, 20415, 21120], device='cuda:0')
+2024-02-21 20:38:54,337 - Classification Succeeds.
+2024-02-21 20:38:54,337 - Link Generation Fails.
+2024-02-21 20:56:13,296 - Victim node is 14604.
+2024-02-21 20:56:13,296 - tensor([14497, 19743, 21729], device='cuda:0')
+2024-02-21 20:56:13,296 - Classification Succeeds.
+2024-02-21 20:56:13,296 - Link Generation Fails.
+2024-02-21 21:13:36,915 - Victim node is 21223.
+2024-02-21 21:13:36,915 - tensor([14497, 16895, 21120], device='cuda:0')
+2024-02-21 21:13:36,916 - Classification Succeeds.
+2024-02-21 21:13:36,916 - Link Generation Fails.
+2024-02-21 21:30:53,184 - Victim node is 481.
+2024-02-21 21:30:53,184 - tensor([ 370,  701, 1722], device='cuda:0')
+2024-02-21 21:30:53,184 - Classification Succeeds.
+2024-02-21 21:30:53,184 - Link Generation Fails.
+2024-02-21 21:48:02,803 - Victim node is 6460.
+2024-02-21 21:48:02,803 - tensor([14497, 19743, 21729], device='cuda:0')
+2024-02-21 21:48:02,803 - Classification Succeeds.
+2024-02-21 21:48:02,803 - Link Generation Fails.
+2024-02-21 22:05:15,461 - Victim node is 3989.
+2024-02-21 22:05:15,461 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-21 22:05:15,461 - Classification Succeeds.
+2024-02-21 22:05:15,461 - Link Generation Fails.
+2024-02-21 22:22:36,756 - Victim node is 20943.
+2024-02-21 22:22:36,756 - tensor([ 8505, 14161, 16809], device='cuda:0')
+2024-02-21 22:22:36,756 - Classification Succeeds.
+2024-02-21 22:22:36,756 - Link Generation Fails.
+2024-02-21 22:40:00,674 - Victim node is 9710.
+2024-02-21 22:40:00,674 - tensor([ 4296, 16809, 18349], device='cuda:0')
+2024-02-21 22:40:00,674 - Classification Succeeds.
+2024-02-21 22:40:00,674 - Link Generation Fails.
+2024-02-21 22:57:21,170 - Victim node is 3035.
+2024-02-21 22:57:21,170 - tensor([ 4296, 12677, 16052], device='cuda:0')
+2024-02-21 22:57:21,170 - Classification Succeeds.
+2024-02-21 22:57:21,170 - Link Generation Fails.
+2024-02-21 23:14:36,505 - Victim node is 21871.
+2024-02-21 23:14:36,505 - tensor([  364, 13294, 21120], device='cuda:0')
+2024-02-21 23:14:36,505 - Classification Fails.
+2024-02-21 23:14:36,505 - Link Generation Fails.
+2024-02-21 23:31:52,538 - Victim node is 12729.
+2024-02-21 23:31:52,538 - tensor([13294, 16809, 22472], device='cuda:0')
+2024-02-21 23:31:52,539 - Classification Fails.
+2024-02-21 23:31:52,539 - Link Generation Succeeds.
+2024-02-21 23:49:03,316 - Victim node is 8514.
+2024-02-21 23:49:03,316 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-21 23:49:03,316 - Classification Succeeds.
+2024-02-21 23:49:03,316 - Link Generation Fails.
+2024-02-22 00:06:13,168 - Victim node is 12647.
+2024-02-22 00:06:13,168 - tensor([ 2323,  8505, 15713], device='cuda:0')
+2024-02-22 00:06:13,169 - Classification Succeeds.
+2024-02-22 00:06:13,169 - Link Generation Fails.
+2024-02-22 00:23:31,943 - Victim node is 8861.
+2024-02-22 00:23:31,943 - tensor([14650, 16809, 20415], device='cuda:0')
+2024-02-22 00:23:31,943 - Classification Fails.
+2024-02-22 00:23:31,944 - Link Generation Fails.
+2024-02-22 00:40:45,787 - Victim node is 19418.
+2024-02-22 00:40:45,787 - tensor([ 1722,  5049, 14161], device='cuda:0')
+2024-02-22 00:40:45,787 - Classification Succeeds.
+2024-02-22 00:40:45,787 - Link Generation Fails.
+2024-02-22 00:58:02,257 - Victim node is 7315.
+2024-02-22 00:58:02,257 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-22 00:58:02,258 - Classification Succeeds.
+2024-02-22 00:58:02,258 - Link Generation Fails.
+2024-02-22 01:15:24,737 - Victim node is 163.
+2024-02-22 01:15:24,737 - tensor([13294, 21120, 22471], device='cuda:0')
+2024-02-22 01:15:24,738 - Classification Fails.
+2024-02-22 01:15:24,738 - Link Generation Succeeds.
+2024-02-22 01:32:40,319 - Victim node is 17341.
+2024-02-22 01:32:40,319 - tensor([ 4296, 12677, 19347], device='cuda:0')
+2024-02-22 01:32:40,319 - Classification Fails.
+2024-02-22 01:32:40,319 - Link Generation Fails.
+2024-02-22 01:50:01,488 - Victim node is 6106.
+2024-02-22 01:50:01,488 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-22 01:50:01,488 - Classification Fails.
+2024-02-22 01:50:01,488 - Link Generation Succeeds.
+2024-02-22 02:07:21,420 - Victim node is 19856.
+2024-02-22 02:07:21,420 - tensor([ 4296, 10851, 14735], device='cuda:0')
+2024-02-22 02:07:21,421 - Classification Succeeds.
+2024-02-22 02:07:21,421 - Link Generation Fails.
+2024-02-22 02:24:45,452 - Victim node is 21426.
+2024-02-22 02:24:45,452 - tensor([  61, 1722, 4296], device='cuda:0')
+2024-02-22 02:24:45,452 - Classification Succeeds.
+2024-02-22 02:24:45,452 - Link Generation Fails.
+2024-02-22 02:42:04,843 - Victim node is 18277.
+2024-02-22 02:42:04,843 - tensor([14650, 16052, 20415], device='cuda:0')
+2024-02-22 02:42:04,843 - Classification Succeeds.
+2024-02-22 02:42:04,843 - Link Generation Fails.
+2024-02-22 02:59:28,331 - Victim node is 10910.
+2024-02-22 02:59:28,331 - tensor([1722, 4296, 5049], device='cuda:0')
+2024-02-22 02:59:28,331 - Classification Succeeds.
+2024-02-22 02:59:28,331 - Link Generation Fails.
+2024-02-22 03:16:44,994 - Victim node is 15985.
+2024-02-22 03:16:44,994 - tensor([22470, 22472, 22473], device='cuda:0')
+2024-02-22 03:16:44,994 - Classification Fails.
+2024-02-22 03:16:44,994 - Link Generation Succeeds.
+2024-02-22 03:34:05,744 - Victim node is 9440.
+2024-02-22 03:34:05,744 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-22 03:34:05,745 - Classification Succeeds.
+2024-02-22 03:34:05,745 - Link Generation Fails.
+2024-02-22 03:51:28,003 - Victim node is 19458.
+2024-02-22 03:51:28,003 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-22 03:51:28,003 - Classification Succeeds.
+2024-02-22 03:51:28,004 - Link Generation Succeeds.
+2024-02-22 04:08:46,651 - Victim node is 21722.
+2024-02-22 04:08:46,651 - tensor([1300, 4275, 4296], device='cuda:0')
+2024-02-22 04:08:46,652 - Classification Succeeds.
+2024-02-22 04:08:46,652 - Link Generation Fails.
+2024-02-22 04:26:04,909 - Victim node is 6110.
+2024-02-22 04:26:04,909 - tensor([ 8505, 22470, 22471], device='cuda:0')
+2024-02-22 04:26:04,909 - Classification Fails.
+2024-02-22 04:26:04,909 - Link Generation Succeeds.
+2024-02-22 04:43:28,293 - Victim node is 3461.
+2024-02-22 04:43:28,293 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-22 04:43:28,294 - Classification Fails.
+2024-02-22 04:43:28,294 - Link Generation Succeeds.
+2024-02-22 05:00:47,934 - Victim node is 8091.
+2024-02-22 05:00:47,934 - tensor([13294, 16960, 21120], device='cuda:0')
+2024-02-22 05:00:47,934 - Classification Succeeds.
+2024-02-22 05:00:47,934 - Link Generation Fails.
+2024-02-22 05:17:59,242 - Victim node is 6091.
+2024-02-22 05:17:59,242 - tensor([13525, 16052, 22474], device='cuda:0')
+2024-02-22 05:17:59,242 - Classification Succeeds.
+2024-02-22 05:17:59,242 - Link Generation Succeeds.
+2024-02-22 05:35:31,931 - Victim node is 6946.
+2024-02-22 05:35:31,931 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-22 05:35:31,931 - Classification Fails.
+2024-02-22 05:35:31,931 - Link Generation Succeeds.
+2024-02-22 05:52:49,503 - Victim node is 11678.
+2024-02-22 05:52:49,503 - tensor([ 1722,  1783, 16809], device='cuda:0')
+2024-02-22 05:52:49,503 - Classification Fails.
+2024-02-22 05:52:49,503 - Link Generation Fails.
+2024-02-22 06:10:10,002 - Victim node is 5941.
+2024-02-22 06:10:10,002 - tensor([ 1722, 14650, 21120], device='cuda:0')
+2024-02-22 06:10:10,003 - Classification Fails.
+2024-02-22 06:10:10,003 - Link Generation Fails.
+2024-02-22 06:27:27,043 - Victim node is 14509.
+2024-02-22 06:27:27,043 - tensor([ 1722,  4296, 16809], device='cuda:0')
+2024-02-22 06:27:27,044 - Classification Fails.
+2024-02-22 06:27:27,044 - Link Generation Fails.
+2024-02-22 06:44:45,809 - Victim node is 5627.
+2024-02-22 06:44:45,809 - tensor([ 2323,  8188, 15713], device='cuda:0')
+2024-02-22 06:44:45,809 - Classification Succeeds.
+2024-02-22 06:44:45,809 - Link Generation Fails.
+2024-02-22 07:02:02,854 - Victim node is 18587.
+2024-02-22 07:02:02,854 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-22 07:02:02,854 - Classification Fails.
+2024-02-22 07:02:02,854 - Link Generation Succeeds.
+2024-02-22 07:19:11,365 - Victim node is 15122.
+2024-02-22 07:19:11,365 - tensor([14497, 16809, 16895], device='cuda:0')
+2024-02-22 07:19:11,365 - Classification Succeeds.
+2024-02-22 07:19:11,365 - Link Generation Fails.
+2024-02-22 07:36:27,624 - Victim node is 11552.
+2024-02-22 07:36:27,624 - tensor([ 4296, 18349, 22471], device='cuda:0')
+2024-02-22 07:36:27,624 - Classification Fails.
+2024-02-22 07:36:27,624 - Link Generation Succeeds.
+2024-02-22 07:53:55,859 - Victim node is 10240.
+2024-02-22 07:53:55,859 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-22 07:53:55,860 - Classification Succeeds.
+2024-02-22 07:53:55,860 - Link Generation Fails.
+2024-02-22 08:11:04,704 - Victim node is 3523.
+2024-02-22 08:11:04,704 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-22 08:11:04,705 - Classification Fails.
+2024-02-22 08:11:04,705 - Link Generation Succeeds.
+2024-02-22 08:28:22,431 - Victim node is 16414.
+2024-02-22 08:28:22,431 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-22 08:28:22,431 - Classification Succeeds.
+2024-02-22 08:28:22,431 - Link Generation Fails.
+2024-02-22 08:45:36,801 - Victim node is 8048.
+2024-02-22 08:45:36,801 - tensor([ 1722, 16809, 22470], device='cuda:0')
+2024-02-22 08:45:36,801 - Classification Fails.
+2024-02-22 08:45:36,801 - Link Generation Succeeds.
+2024-02-22 09:02:57,939 - Victim node is 12224.
+2024-02-22 09:02:57,939 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-22 09:02:57,939 - Classification Fails.
+2024-02-22 09:02:57,939 - Link Generation Succeeds.
+2024-02-22 09:20:13,035 - Victim node is 12265.
+2024-02-22 09:20:13,035 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-22 09:20:13,036 - Classification Fails.
+2024-02-22 09:20:13,036 - Link Generation Succeeds.
+2024-02-22 09:37:30,772 - Victim node is 16475.
+2024-02-22 09:37:30,772 - tensor([16895, 19743, 21729], device='cuda:0')
+2024-02-22 09:37:30,772 - Classification Succeeds.
+2024-02-22 09:37:30,772 - Link Generation Fails.
+2024-02-22 09:54:42,492 - Victim node is 10502.
+2024-02-22 09:54:42,492 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-22 09:54:42,493 - Classification Fails.
+2024-02-22 09:54:42,493 - Link Generation Fails.
+2024-02-22 10:12:00,930 - Victim node is 11560.
+2024-02-22 10:12:00,931 - tensor([21120, 22470, 22474], device='cuda:0')
+2024-02-22 10:12:00,931 - Classification Fails.
+2024-02-22 10:12:00,931 - Link Generation Succeeds.
+2024-02-22 10:29:18,399 - Victim node is 8657.
+2024-02-22 10:29:18,399 - tensor([ 1722,  4296, 14735], device='cuda:0')
+2024-02-22 10:29:18,399 - Classification Succeeds.
+2024-02-22 10:29:18,399 - Link Generation Fails.
+2024-02-22 10:46:39,426 - Victim node is 3303.
+2024-02-22 10:46:39,426 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-22 10:46:39,427 - Classification Fails.
+2024-02-22 10:46:39,427 - Link Generation Succeeds.
+2024-02-22 11:03:52,489 - Victim node is 579.
+2024-02-22 11:03:52,489 - tensor([1722, 4296, 6174], device='cuda:0')
+2024-02-22 11:03:52,490 - Classification Succeeds.
+2024-02-22 11:03:52,490 - Link Generation Fails.
+2024-02-22 11:21:01,685 - Victim node is 2971.
+2024-02-22 11:21:01,685 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-22 11:21:01,686 - Classification Fails.
+2024-02-22 11:21:01,686 - Link Generation Succeeds.
+2024-02-22 11:38:10,726 - Victim node is 20037.
+2024-02-22 11:38:10,726 - tensor([ 3577,  4296, 14161], device='cuda:0')
+2024-02-22 11:38:10,726 - Classification Succeeds.
+2024-02-22 11:38:10,726 - Link Generation Fails.
+2024-02-22 11:55:41,207 - Victim node is 3491.
+2024-02-22 11:55:41,207 - tensor([ 1387, 14497, 22474], device='cuda:0')
+2024-02-22 11:55:41,207 - Classification Succeeds.
+2024-02-22 11:55:41,207 - Link Generation Succeeds.
+2024-02-22 12:13:04,365 - Victim node is 12133.
+2024-02-22 12:13:04,365 - tensor([   61, 13152, 14681], device='cuda:0')
+2024-02-22 12:13:04,365 - Classification Succeeds.
+2024-02-22 12:13:04,365 - Link Generation Fails.
+2024-02-22 12:30:27,773 - Victim node is 11099.
+2024-02-22 12:30:27,773 - tensor([12361, 20415, 21922], device='cuda:0')
+2024-02-22 12:30:27,773 - Classification Succeeds.
+2024-02-22 12:30:27,773 - Link Generation Fails.
+2024-02-22 12:47:38,241 - Victim node is 13125.
+2024-02-22 12:47:38,241 - tensor([ 4296, 13253, 22472], device='cuda:0')
+2024-02-22 12:47:38,242 - Classification Succeeds.
+2024-02-22 12:47:38,242 - Link Generation Succeeds.
+2024-02-22 13:04:50,738 - Victim node is 8269.
+2024-02-22 13:04:50,738 - tensor([13294, 17386, 21120], device='cuda:0')
+2024-02-22 13:04:50,738 - Classification Succeeds.
+2024-02-22 13:04:50,738 - Link Generation Fails.
+2024-02-22 13:22:01,667 - Victim node is 8443.
+2024-02-22 13:22:01,667 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-22 13:22:01,667 - Classification Succeeds.
+2024-02-22 13:22:01,667 - Link Generation Succeeds.
+2024-02-22 13:39:10,513 - Victim node is 18180.
+2024-02-22 13:39:10,514 - tensor([ 4296, 14735, 17392], device='cuda:0')
+2024-02-22 13:39:10,514 - Classification Succeeds.
+2024-02-22 13:39:10,514 - Link Generation Fails.
+2024-02-22 13:56:22,919 - Victim node is 3291.
+2024-02-22 13:56:22,919 - tensor([16809, 22472, 22473], device='cuda:0')
+2024-02-22 13:56:22,919 - Classification Succeeds.
+2024-02-22 13:56:22,919 - Link Generation Succeeds.
+2024-02-22 14:13:31,348 - Victim node is 17984.
+2024-02-22 14:13:31,348 - tensor([ 5458, 10379, 15531], device='cuda:0')
+2024-02-22 14:13:31,348 - Classification Succeeds.
+2024-02-22 14:13:31,348 - Link Generation Fails.
+2024-02-22 14:30:54,552 - Victim node is 11582.
+2024-02-22 14:30:54,552 - tensor([ 3533, 13294, 21120], device='cuda:0')
+2024-02-22 14:30:54,553 - Classification Succeeds.
+2024-02-22 14:30:54,553 - Link Generation Fails.
+2024-02-22 14:48:11,082 - Victim node is 517.
+2024-02-22 14:48:11,082 - tensor([14497, 16895, 22474], device='cuda:0')
+2024-02-22 14:48:11,082 - Classification Succeeds.
+2024-02-22 14:48:11,082 - Link Generation Succeeds.
+2024-02-22 15:05:09,609 - Victim node is 1749.
+2024-02-22 15:05:09,609 - tensor([ 4296, 12677, 18952], device='cuda:0')
+2024-02-22 15:05:09,609 - Classification Succeeds.
+2024-02-22 15:05:09,609 - Link Generation Fails.
+2024-02-22 15:22:18,354 - Victim node is 15805.
+2024-02-22 15:22:18,354 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-22 15:22:18,354 - Classification Fails.
+2024-02-22 15:22:18,354 - Link Generation Succeeds.
+2024-02-22 15:39:27,832 - Victim node is 9879.
+2024-02-22 15:39:27,832 - tensor([14650, 18155, 20415], device='cuda:0')
+2024-02-22 15:39:27,832 - Classification Succeeds.
+2024-02-22 15:39:27,832 - Link Generation Fails.
+2024-02-22 15:56:42,300 - Victim node is 9181.
+2024-02-22 15:56:42,300 - tensor([14650, 18155, 20415], device='cuda:0')
+2024-02-22 15:56:42,300 - Classification Succeeds.
+2024-02-22 15:56:42,301 - Link Generation Fails.
+2024-02-22 16:13:54,096 - Victim node is 4526.
+2024-02-22 16:13:54,096 - tensor([14161, 16052, 20990], device='cuda:0')
+2024-02-22 16:13:54,096 - Classification Fails.
+2024-02-22 16:13:54,096 - Link Generation Fails.
+2024-02-22 16:31:13,607 - Victim node is 10150.
+2024-02-22 16:31:13,607 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-22 16:31:13,607 - Classification Fails.
+2024-02-22 16:31:13,607 - Link Generation Succeeds.
+2024-02-22 16:48:38,468 - Victim node is 9057.
+2024-02-22 16:48:38,469 - tensor([15713, 20415, 21491], device='cuda:0')
+2024-02-22 16:48:38,469 - Classification Succeeds.
+2024-02-22 16:48:38,469 - Link Generation Fails.
+2024-02-22 17:06:06,293 - Victim node is 14309.
+2024-02-22 17:06:06,294 - tensor([19743, 21729, 22470], device='cuda:0')
+2024-02-22 17:06:06,294 - Classification Succeeds.
+2024-02-22 17:06:06,294 - Link Generation Succeeds.
+2024-02-22 17:23:24,980 - Victim node is 17134.
+2024-02-22 17:23:24,980 - tensor([ 1722, 14650, 20415], device='cuda:0')
+2024-02-22 17:23:24,980 - Classification Succeeds.
+2024-02-22 17:23:24,980 - Link Generation Fails.
+2024-02-22 17:40:37,668 - Victim node is 14341.
+2024-02-22 17:40:37,668 - tensor([10426, 14497, 16895], device='cuda:0')
+2024-02-22 17:40:37,668 - Classification Succeeds.
+2024-02-22 17:40:37,668 - Link Generation Fails.
+2024-02-22 17:57:48,787 - Victim node is 15989.
+2024-02-22 17:57:48,788 - tensor([1722, 1783, 4296], device='cuda:0')
+2024-02-22 17:57:48,788 - Classification Fails.
+2024-02-22 17:57:48,788 - Link Generation Fails.
+2024-02-22 18:14:58,783 - Victim node is 7014.
+2024-02-22 18:14:58,783 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-22 18:14:58,783 - Classification Fails.
+2024-02-22 18:14:58,783 - Link Generation Succeeds.
+2024-02-22 18:32:09,082 - Victim node is 17274.
+2024-02-22 18:32:09,082 - tensor([14497, 19743, 21729], device='cuda:0')
+2024-02-22 18:32:09,083 - Classification Succeeds.
+2024-02-22 18:32:09,083 - Link Generation Fails.
+2024-02-22 18:49:22,430 - Victim node is 18742.
+2024-02-22 18:49:22,430 - tensor([ 5751, 10426, 13525], device='cuda:0')
+2024-02-22 18:49:22,430 - Classification Succeeds.
+2024-02-22 18:49:22,430 - Link Generation Fails.
+2024-02-22 19:06:48,445 - Victim node is 8881.
+2024-02-22 19:06:48,445 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-22 19:06:48,445 - Classification Succeeds.
+2024-02-22 19:06:48,445 - Link Generation Succeeds.
+2024-02-22 19:24:00,975 - Victim node is 20184.
+2024-02-22 19:24:00,975 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-22 19:24:00,975 - Classification Succeeds.
+2024-02-22 19:24:00,975 - Link Generation Fails.
+2024-02-22 19:41:19,466 - Victim node is 9972.
+2024-02-22 19:41:19,467 - tensor([ 1387, 14497, 16895], device='cuda:0')
+2024-02-22 19:41:19,467 - Classification Succeeds.
+2024-02-22 19:41:19,467 - Link Generation Fails.
+2024-02-22 19:58:30,543 - Victim node is 8068.
+2024-02-22 19:58:30,543 - tensor([ 3533, 13525, 16052], device='cuda:0')
+2024-02-22 19:58:30,543 - Classification Succeeds.
+2024-02-22 19:58:30,543 - Link Generation Fails.
+2024-02-22 20:15:40,764 - Victim node is 16507.
+2024-02-22 20:15:40,764 - tensor([ 4296, 10851, 14735], device='cuda:0')
+2024-02-22 20:15:40,764 - Classification Succeeds.
+2024-02-22 20:15:40,764 - Link Generation Fails.
+2024-02-22 20:32:49,781 - Victim node is 2062.
+2024-02-22 20:32:49,781 - tensor([14161, 20152, 20990], device='cuda:0')
+2024-02-22 20:32:49,781 - Classification Succeeds.
+2024-02-22 20:32:49,781 - Link Generation Fails.
+2024-02-22 20:50:05,506 - Victim node is 22203.
+2024-02-22 20:50:05,506 - tensor([10851, 14681, 14735], device='cuda:0')
+2024-02-22 20:50:05,506 - Classification Succeeds.
+2024-02-22 20:50:05,506 - Link Generation Fails.
+2024-02-22 21:07:17,296 - Victim node is 20569.
+2024-02-22 21:07:17,296 - tensor([14497, 22470, 22472], device='cuda:0')
+2024-02-22 21:07:17,296 - Classification Fails.
+2024-02-22 21:07:17,296 - Link Generation Succeeds.
+2024-02-22 21:24:27,229 - Victim node is 8596.
+2024-02-22 21:24:27,229 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-22 21:24:27,230 - Classification Fails.
+2024-02-22 21:24:27,230 - Link Generation Succeeds.
+2024-02-22 21:41:40,327 - Victim node is 7687.
+2024-02-22 21:41:40,328 - tensor([10379, 19743, 21729], device='cuda:0')
+2024-02-22 21:41:40,328 - Classification Succeeds.
+2024-02-22 21:41:40,328 - Link Generation Fails.
+2024-02-22 21:58:55,245 - Victim node is 2827.
+2024-02-22 21:58:55,245 - tensor([11102, 16972, 22471], device='cuda:0')
+2024-02-22 21:58:55,246 - Classification Fails.
+2024-02-22 21:58:55,246 - Link Generation Succeeds.
+2024-02-22 22:16:11,448 - Victim node is 21396.
+2024-02-22 22:16:11,448 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-22 22:16:11,449 - Classification Fails.
+2024-02-22 22:16:11,449 - Link Generation Succeeds.
+2024-02-22 22:33:23,198 - Victim node is 10887.
+2024-02-22 22:33:23,198 - tensor([ 2442, 14497, 19347], device='cuda:0')
+2024-02-22 22:33:23,199 - Classification Succeeds.
+2024-02-22 22:33:23,199 - Link Generation Fails.
+2024-02-22 22:50:32,677 - Victim node is 9099.
+2024-02-22 22:50:32,677 - tensor([ 1722, 22470, 22472], device='cuda:0')
+2024-02-22 22:50:32,677 - Classification Succeeds.
+2024-02-22 22:50:32,677 - Link Generation Succeeds.
+2024-02-22 23:07:48,482 - Victim node is 15374.
+2024-02-22 23:07:48,482 - tensor([14650, 18155, 20415], device='cuda:0')
+2024-02-22 23:07:48,482 - Classification Succeeds.
+2024-02-22 23:07:48,482 - Link Generation Fails.
+2024-02-22 23:25:04,521 - Victim node is 13734.
+2024-02-22 23:25:04,521 - tensor([ 1722, 14650, 20415], device='cuda:0')
+2024-02-22 23:25:04,521 - Classification Succeeds.
+2024-02-22 23:25:04,521 - Link Generation Fails.
+2024-02-22 23:42:13,363 - Victim node is 7707.
+2024-02-22 23:42:13,363 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-22 23:42:13,363 - Classification Fails.
+2024-02-22 23:42:13,363 - Link Generation Succeeds.
+2024-02-22 23:59:37,918 - Victim node is 3753.
+2024-02-22 23:59:37,918 - tensor([  909,  4296, 17392], device='cuda:0')
+2024-02-22 23:59:37,918 - Classification Succeeds.
+2024-02-22 23:59:37,918 - Link Generation Fails.
+2024-02-23 00:16:46,710 - Victim node is 1316.
+2024-02-23 00:16:46,710 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-23 00:16:46,710 - Classification Fails.
+2024-02-23 00:16:46,710 - Link Generation Succeeds.
+2024-02-23 00:33:59,492 - Victim node is 13276.
+2024-02-23 00:33:59,493 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-23 00:33:59,493 - Classification Fails.
+2024-02-23 00:33:59,493 - Link Generation Succeeds.
+2024-02-23 00:51:11,674 - Victim node is 14632.
+2024-02-23 00:51:11,674 - tensor([14650, 20415, 22474], device='cuda:0')
+2024-02-23 00:51:11,674 - Classification Succeeds.
+2024-02-23 00:51:11,674 - Link Generation Succeeds.
+2024-02-23 01:08:28,571 - Victim node is 11300.
+2024-02-23 01:08:28,572 - tensor([  290, 16052, 16809], device='cuda:0')
+2024-02-23 01:08:28,572 - Classification Succeeds.
+2024-02-23 01:08:28,572 - Link Generation Fails.
+2024-02-23 01:25:39,560 - Victim node is 18149.
+2024-02-23 01:25:39,560 - tensor([13294, 16960, 21120], device='cuda:0')
+2024-02-23 01:25:39,560 - Classification Succeeds.
+2024-02-23 01:25:39,560 - Link Generation Fails.
+2024-02-23 01:42:52,760 - Victim node is 16937.
+2024-02-23 01:42:52,760 - tensor([ 1722, 22470, 22473], device='cuda:0')
+2024-02-23 01:42:52,760 - Classification Succeeds.
+2024-02-23 01:42:52,760 - Link Generation Succeeds.
+2024-02-23 02:00:05,400 - Victim node is 13653.
+2024-02-23 02:00:05,400 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-23 02:00:05,400 - Classification Fails.
+2024-02-23 02:00:05,400 - Link Generation Succeeds.
+2024-02-23 02:17:22,063 - Victim node is 11136.
+2024-02-23 02:17:22,063 - tensor([ 4296, 17392, 18409], device='cuda:0')
+2024-02-23 02:17:22,063 - Classification Succeeds.
+2024-02-23 02:17:22,063 - Link Generation Fails.
+2024-02-23 02:34:40,467 - Victim node is 3611.
+2024-02-23 02:34:40,467 - tensor([ 8505, 12361, 21922], device='cuda:0')
+2024-02-23 02:34:40,468 - Classification Succeeds.
+2024-02-23 02:34:40,468 - Link Generation Fails.
+2024-02-23 02:51:54,048 - Victim node is 11540.
+2024-02-23 02:51:54,049 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-23 02:51:54,049 - Classification Fails.
+2024-02-23 02:51:54,049 - Link Generation Succeeds.
+2024-02-23 03:09:12,132 - Victim node is 154.
+2024-02-23 03:09:12,132 - tensor([ 3533,  9035, 13525], device='cuda:0')
+2024-02-23 03:09:12,132 - Classification Succeeds.
+2024-02-23 03:09:12,132 - Link Generation Fails.
+2024-02-23 03:26:25,501 - Victim node is 13640.
+2024-02-23 03:26:25,501 - tensor([13152, 14681, 22474], device='cuda:0')
+2024-02-23 03:26:25,501 - Classification Succeeds.
+2024-02-23 03:26:25,501 - Link Generation Succeeds.
+2024-02-23 03:43:42,632 - Victim node is 16122.
+2024-02-23 03:43:42,632 - tensor([ 2442,  9294, 19347], device='cuda:0')
+2024-02-23 03:43:42,632 - Classification Succeeds.
+2024-02-23 03:43:42,632 - Link Generation Fails.
+2024-02-23 04:01:01,872 - Victim node is 12858.
+2024-02-23 04:01:01,872 - tensor([ 3070, 20415, 21491], device='cuda:0')
+2024-02-23 04:01:01,872 - Classification Fails.
+2024-02-23 04:01:01,873 - Link Generation Fails.
+2024-02-23 04:18:14,515 - Victim node is 13559.
+2024-02-23 04:18:14,515 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-23 04:18:14,515 - Classification Fails.
+2024-02-23 04:18:14,515 - Link Generation Succeeds.
+2024-02-23 04:35:25,876 - Victim node is 15796.
+2024-02-23 04:35:25,876 - tensor([14366, 22472, 22474], device='cuda:0')
+2024-02-23 04:35:25,876 - Classification Fails.
+2024-02-23 04:35:25,876 - Link Generation Succeeds.
+2024-02-23 04:52:49,326 - Victim node is 12231.
+2024-02-23 04:52:49,326 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-23 04:52:49,327 - Classification Succeeds.
+2024-02-23 04:52:49,327 - Link Generation Fails.
+2024-02-23 05:10:13,190 - Victim node is 21465.
+2024-02-23 05:10:13,191 - tensor([ 4296,  8669, 13253], device='cuda:0')
+2024-02-23 05:10:13,191 - Classification Succeeds.
+2024-02-23 05:10:13,191 - Link Generation Fails.
+2024-02-23 05:27:33,559 - Victim node is 17097.
+2024-02-23 05:27:33,559 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-23 05:27:33,559 - Classification Fails.
+2024-02-23 05:27:33,559 - Link Generation Succeeds.
+2024-02-23 05:44:47,296 - Victim node is 10456.
+2024-02-23 05:44:47,296 - tensor([13294, 14650, 21120], device='cuda:0')
+2024-02-23 05:44:47,296 - Classification Fails.
+2024-02-23 05:44:47,296 - Link Generation Fails.
+2024-02-23 06:02:04,222 - Victim node is 9511.
+2024-02-23 06:02:04,222 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-23 06:02:04,222 - Classification Succeeds.
+2024-02-23 06:02:04,222 - Link Generation Succeeds.
+2024-02-23 06:19:12,644 - Victim node is 2219.
+2024-02-23 06:19:12,644 - tensor([16809, 22470, 22471], device='cuda:0')
+2024-02-23 06:19:12,644 - Classification Fails.
+2024-02-23 06:19:12,644 - Link Generation Succeeds.
+2024-02-23 06:36:24,341 - Victim node is 21951.
+2024-02-23 06:36:24,341 - tensor([  187, 11102, 16972], device='cuda:0')
+2024-02-23 06:36:24,341 - Classification Succeeds.
+2024-02-23 06:36:24,341 - Link Generation Fails.
+2024-02-23 06:53:46,057 - Victim node is 9354.
+2024-02-23 06:53:46,057 - tensor([ 3533,  9035, 13525], device='cuda:0')
+2024-02-23 06:53:46,057 - Classification Succeeds.
+2024-02-23 06:53:46,057 - Link Generation Fails.
+2024-02-23 07:11:03,880 - Victim node is 2751.
+2024-02-23 07:11:03,880 - tensor([ 5183, 18906, 19347], device='cuda:0')
+2024-02-23 07:11:03,880 - Classification Succeeds.
+2024-02-23 07:11:03,880 - Link Generation Fails.
+2024-02-23 07:28:25,670 - Victim node is 18531.
+2024-02-23 07:28:25,670 - tensor([  701,  4296, 16052], device='cuda:0')
+2024-02-23 07:28:25,670 - Classification Fails.
+2024-02-23 07:28:25,670 - Link Generation Fails.
+2024-02-23 07:45:38,790 - Victim node is 9638.
+2024-02-23 07:45:38,791 - tensor([10851, 14681, 14735], device='cuda:0')
+2024-02-23 07:45:38,791 - Classification Succeeds.
+2024-02-23 07:45:38,791 - Link Generation Fails.
+2024-02-23 08:02:48,271 - Victim node is 18685.
+2024-02-23 08:02:48,271 - tensor([14650, 21120, 22470], device='cuda:0')
+2024-02-23 08:02:48,272 - Classification Succeeds.
+2024-02-23 08:02:48,272 - Link Generation Succeeds.
+2024-02-23 08:19:56,519 - Victim node is 14014.
+2024-02-23 08:19:56,519 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-23 08:19:56,520 - Classification Succeeds.
+2024-02-23 08:19:56,520 - Link Generation Succeeds.
+2024-02-23 08:37:11,149 - Victim node is 12127.
+2024-02-23 08:37:11,149 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-23 08:37:11,149 - Classification Fails.
+2024-02-23 08:37:11,149 - Link Generation Succeeds.
+2024-02-23 08:54:20,416 - Victim node is 20674.
+2024-02-23 08:54:20,416 - tensor([13294, 16960, 21120], device='cuda:0')
+2024-02-23 08:54:20,416 - Classification Succeeds.
+2024-02-23 08:54:20,416 - Link Generation Fails.
+2024-02-23 09:11:29,838 - Victim node is 10252.
+2024-02-23 09:11:29,838 - tensor([ 3070, 16960, 17056], device='cuda:0')
+2024-02-23 09:11:29,839 - Classification Succeeds.
+2024-02-23 09:11:29,839 - Link Generation Fails.
+2024-02-23 09:28:40,130 - Victim node is 8680.
+2024-02-23 09:28:40,130 - tensor([1722, 1783, 3070], device='cuda:0')
+2024-02-23 09:28:40,130 - Classification Fails.
+2024-02-23 09:28:40,130 - Link Generation Fails.
+2024-02-23 09:45:48,838 - Victim node is 4890.
+2024-02-23 09:45:48,838 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-23 09:45:48,838 - Classification Fails.
+2024-02-23 09:45:48,838 - Link Generation Succeeds.
+2024-02-23 10:03:11,545 - Victim node is 1867.
+2024-02-23 10:03:11,545 - tensor([   61, 13253, 14735], device='cuda:0')
+2024-02-23 10:03:11,545 - Classification Succeeds.
+2024-02-23 10:03:11,545 - Link Generation Fails.
+2024-02-23 10:20:34,155 - Victim node is 21272.
+2024-02-23 10:20:34,155 - tensor([  187,   406, 11102], device='cuda:0')
+2024-02-23 10:20:34,155 - Classification Fails.
+2024-02-23 10:20:34,155 - Link Generation Fails.
+2024-02-23 10:37:50,373 - Victim node is 3300.
+2024-02-23 10:37:50,373 - tensor([19347, 19743, 22473], device='cuda:0')
+2024-02-23 10:37:50,373 - Classification Succeeds.
+2024-02-23 10:37:50,373 - Link Generation Succeeds.
+2024-02-23 10:55:00,050 - Victim node is 5125.
+2024-02-23 10:55:00,050 - tensor([  364, 16809, 20415], device='cuda:0')
+2024-02-23 10:55:00,051 - Classification Succeeds.
+2024-02-23 10:55:00,051 - Link Generation Fails.
+2024-02-23 11:12:20,287 - Victim node is 14019.
+2024-02-23 11:12:20,287 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-23 11:12:20,287 - Classification Fails.
+2024-02-23 11:12:20,288 - Link Generation Succeeds.
+2024-02-23 11:29:32,890 - Victim node is 17640.
+2024-02-23 11:29:32,890 - tensor([13294, 16809, 21120], device='cuda:0')
+2024-02-23 11:29:32,890 - Classification Fails.
+2024-02-23 11:29:32,890 - Link Generation Fails.
+2024-02-23 11:46:47,911 - Victim node is 6679.
+2024-02-23 11:46:47,911 - tensor([13294, 16809, 21120], device='cuda:0')
+2024-02-23 11:46:47,911 - Classification Succeeds.
+2024-02-23 11:46:47,911 - Link Generation Fails.
+2024-02-23 12:03:57,388 - Victim node is 2550.
+2024-02-23 12:03:57,388 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-23 12:03:57,389 - Classification Succeeds.
+2024-02-23 12:03:57,389 - Link Generation Fails.
+2024-02-23 12:21:10,952 - Victim node is 9592.
+2024-02-23 12:21:10,952 - tensor([16809, 20415, 21491], device='cuda:0')
+2024-02-23 12:21:10,952 - Classification Fails.
+2024-02-23 12:21:10,952 - Link Generation Fails.
+2024-02-23 12:38:28,558 - Victim node is 10400.
+2024-02-23 12:38:28,559 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-23 12:38:28,559 - Classification Succeeds.
+2024-02-23 12:38:28,559 - Link Generation Succeeds.
+2024-02-23 12:55:41,368 - Victim node is 6399.
+2024-02-23 12:55:41,368 - tensor([ 2124, 22470, 22472], device='cuda:0')
+2024-02-23 12:55:41,368 - Classification Succeeds.
+2024-02-23 12:55:41,368 - Link Generation Succeeds.
+2024-02-23 13:12:58,605 - Victim node is 21689.
+2024-02-23 13:12:58,605 - tensor([ 8505, 12031, 18056], device='cuda:0')
+2024-02-23 13:12:58,605 - Classification Fails.
+2024-02-23 13:12:58,605 - Link Generation Fails.
+2024-02-23 13:30:13,019 - Victim node is 5796.
+2024-02-23 13:30:13,019 - tensor([ 7178, 10851, 14735], device='cuda:0')
+2024-02-23 13:30:13,019 - Classification Succeeds.
+2024-02-23 13:30:13,020 - Link Generation Fails.
+2024-02-23 13:47:32,597 - Victim node is 18904.
+2024-02-23 13:47:32,598 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-23 13:47:32,598 - Classification Succeeds.
+2024-02-23 13:47:32,598 - Link Generation Succeeds.
+2024-02-23 14:04:45,579 - Victim node is 14389.
+2024-02-23 14:04:45,579 - tensor([ 1387, 14497, 16895], device='cuda:0')
+2024-02-23 14:04:45,579 - Classification Fails.
+2024-02-23 14:04:45,579 - Link Generation Fails.
+2024-02-23 14:21:57,722 - Victim node is 5863.
+2024-02-23 14:21:57,722 - tensor([ 1783,  2323, 15713], device='cuda:0')
+2024-02-23 14:21:57,722 - Classification Succeeds.
+2024-02-23 14:21:57,722 - Link Generation Fails.
+2024-02-23 14:39:15,328 - Victim node is 12693.
+2024-02-23 14:39:15,328 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-23 14:39:15,329 - Classification Fails.
+2024-02-23 14:39:15,329 - Link Generation Succeeds.
+2024-02-23 14:56:28,607 - Victim node is 7165.
+2024-02-23 14:56:28,607 - tensor([ 1722, 13525, 16052], device='cuda:0')
+2024-02-23 14:56:28,607 - Classification Succeeds.
+2024-02-23 14:56:28,607 - Link Generation Fails.
+2024-02-23 15:13:48,171 - Victim node is 5229.
+2024-02-23 15:13:48,171 - tensor([ 4296, 13253, 17392], device='cuda:0')
+2024-02-23 15:13:48,171 - Classification Succeeds.
+2024-02-23 15:13:48,171 - Link Generation Fails.
+2024-02-23 15:31:06,937 - Victim node is 21154.
+2024-02-23 15:31:06,937 - tensor([ 1387, 14497, 16895], device='cuda:0')
+2024-02-23 15:31:06,937 - Classification Succeeds.
+2024-02-23 15:31:06,937 - Link Generation Fails.
+2024-02-23 15:48:17,456 - Victim node is 21247.
+2024-02-23 15:48:17,456 - tensor([ 4296, 17392, 18952], device='cuda:0')
+2024-02-23 15:48:17,456 - Classification Succeeds.
+2024-02-23 15:48:17,457 - Link Generation Fails.
+2024-02-23 16:05:38,135 - Victim node is 14549.
+2024-02-23 16:05:38,135 - tensor([13152, 14681, 14844], device='cuda:0')
+2024-02-23 16:05:38,135 - Classification Succeeds.
+2024-02-23 16:05:38,135 - Link Generation Fails.
+2024-02-23 16:22:47,352 - Victim node is 2901.
+2024-02-23 16:22:47,353 - tensor([ 2124, 12031, 14205], device='cuda:0')
+2024-02-23 16:22:47,353 - Classification Succeeds.
+2024-02-23 16:22:47,353 - Link Generation Fails.
+2024-02-23 16:40:03,903 - Victim node is 4002.
+2024-02-23 16:40:03,904 - tensor([10379, 19743, 20415], device='cuda:0')
+2024-02-23 16:40:03,904 - Classification Succeeds.
+2024-02-23 16:40:03,904 - Link Generation Fails.
+2024-02-23 16:57:23,843 - Victim node is 2357.
+2024-02-23 16:57:23,843 - tensor([1722, 2124, 8669], device='cuda:0')
+2024-02-23 16:57:23,843 - Classification Succeeds.
+2024-02-23 16:57:23,843 - Link Generation Fails.
+2024-02-23 17:14:38,327 - Victim node is 15150.
+2024-02-23 17:14:38,328 - tensor([ 1722,  5049, 16809], device='cuda:0')
+2024-02-23 17:14:38,328 - Classification Succeeds.
+2024-02-23 17:14:38,328 - Link Generation Fails.
+2024-02-23 17:31:53,135 - Victim node is 19686.
+2024-02-23 17:31:53,135 - tensor([22470, 22471, 22474], device='cuda:0')
+2024-02-23 17:31:53,135 - Classification Fails.
+2024-02-23 17:31:53,135 - Link Generation Succeeds.
+2024-02-23 17:49:03,751 - Victim node is 17040.
+2024-02-23 17:49:03,751 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-23 17:49:03,751 - Classification Succeeds.
+2024-02-23 17:49:03,751 - Link Generation Fails.
+2024-02-23 18:06:20,170 - Victim node is 5431.
+2024-02-23 18:06:20,170 - tensor([14650, 20415, 22472], device='cuda:0')
+2024-02-23 18:06:20,170 - Classification Fails.
+2024-02-23 18:06:20,170 - Link Generation Succeeds.
+2024-02-23 18:23:33,128 - Victim node is 9744.
+2024-02-23 18:23:33,128 - tensor([14650, 16809, 20415], device='cuda:0')
+2024-02-23 18:23:33,128 - Classification Succeeds.
+2024-02-23 18:23:33,128 - Link Generation Fails.
+2024-02-23 18:40:46,498 - Victim node is 9834.
+2024-02-23 18:40:46,499 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-23 18:40:46,499 - Classification Succeeds.
+2024-02-23 18:40:46,499 - Link Generation Fails.
+2024-02-23 18:57:59,880 - Victim node is 19009.
+2024-02-23 18:57:59,880 - tensor([14497, 16895, 21120], device='cuda:0')
+2024-02-23 18:57:59,880 - Classification Fails.
+2024-02-23 18:57:59,880 - Link Generation Fails.
+2024-02-23 19:15:07,801 - Victim node is 6694.
+2024-02-23 19:15:07,801 - tensor([ 8505, 14650, 20415], device='cuda:0')
+2024-02-23 19:15:07,801 - Classification Succeeds.
+2024-02-23 19:15:07,801 - Link Generation Fails.
+2024-02-23 19:32:17,922 - Victim node is 5472.
+2024-02-23 19:32:17,922 - tensor([14497, 15713, 16895], device='cuda:0')
+2024-02-23 19:32:17,923 - Classification Fails.
+2024-02-23 19:32:17,923 - Link Generation Fails.
+2024-02-23 19:49:33,608 - Victim node is 9374.
+2024-02-23 19:49:33,608 - tensor([16895, 19743, 22473], device='cuda:0')
+2024-02-23 19:49:33,609 - Classification Succeeds.
+2024-02-23 19:49:33,609 - Link Generation Succeeds.
+2024-02-23 20:06:42,298 - Victim node is 1171.
+2024-02-23 20:06:42,298 - tensor([13525, 16052, 16809], device='cuda:0')
+2024-02-23 20:06:42,299 - Classification Succeeds.
+2024-02-23 20:06:42,299 - Link Generation Fails.
+2024-02-23 20:24:00,200 - Victim node is 10447.
+2024-02-23 20:24:00,200 - tensor([ 1225, 12139, 15986], device='cuda:0')
+2024-02-23 20:24:00,200 - Classification Succeeds.
+2024-02-23 20:24:00,200 - Link Generation Fails.
+2024-02-23 20:41:14,435 - Victim node is 19179.
+2024-02-23 20:41:14,435 - tensor([10851, 14366, 14735], device='cuda:0')
+2024-02-23 20:41:14,435 - Classification Succeeds.
+2024-02-23 20:41:14,435 - Link Generation Fails.
+2024-02-23 20:58:28,599 - Victim node is 7089.
+2024-02-23 20:58:28,599 - tensor([14650, 16809, 20415], device='cuda:0')
+2024-02-23 20:58:28,600 - Classification Succeeds.
+2024-02-23 20:58:28,600 - Link Generation Fails.
+2024-02-23 21:15:46,523 - Victim node is 18705.
+2024-02-23 21:15:46,523 - tensor([ 701, 1722, 4296], device='cuda:0')
+2024-02-23 21:15:46,523 - Classification Succeeds.
+2024-02-23 21:15:46,523 - Link Generation Fails.
+2024-02-23 21:33:01,963 - Victim node is 17191.
+2024-02-23 21:33:01,963 - tensor([ 4296, 22472, 22473], device='cuda:0')
+2024-02-23 21:33:01,964 - Classification Fails.
+2024-02-23 21:33:01,964 - Link Generation Succeeds.
+2024-02-23 21:50:20,548 - Victim node is 15955.
+2024-02-23 21:50:20,548 - tensor([ 1722,  5049, 20415], device='cuda:0')
+2024-02-23 21:50:20,548 - Classification Succeeds.
+2024-02-23 21:50:20,548 - Link Generation Fails.
+2024-02-23 22:07:36,111 - Victim node is 2039.
+2024-02-23 22:07:36,111 - tensor([22471, 22472, 22474], device='cuda:0')
+2024-02-23 22:07:36,111 - Classification Succeeds.
+2024-02-23 22:07:36,111 - Link Generation Succeeds.
+2024-02-23 22:24:55,939 - Victim node is 8255.
+2024-02-23 22:24:55,939 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-23 22:24:55,939 - Classification Succeeds.
+2024-02-23 22:24:55,939 - Link Generation Succeeds.
+2024-02-23 22:42:05,708 - Victim node is 17545.
+2024-02-23 22:42:05,708 - tensor([ 1387,  2442, 19347], device='cuda:0')
+2024-02-23 22:42:05,708 - Classification Succeeds.
+2024-02-23 22:42:05,709 - Link Generation Fails.
+2024-02-23 22:59:19,643 - Victim node is 19310.
+2024-02-23 22:59:19,643 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-23 22:59:19,643 - Classification Succeeds.
+2024-02-23 22:59:19,643 - Link Generation Fails.
+2024-02-23 23:16:31,366 - Victim node is 5205.
+2024-02-23 23:16:31,366 - tensor([11102, 13294, 21120], device='cuda:0')
+2024-02-23 23:16:31,366 - Classification Fails.
+2024-02-23 23:16:31,366 - Link Generation Fails.
+2024-02-23 23:33:41,514 - Victim node is 2552.
+2024-02-23 23:33:41,514 - tensor([  61, 1722, 4296], device='cuda:0')
+2024-02-23 23:33:41,514 - Classification Succeeds.
+2024-02-23 23:33:41,514 - Link Generation Fails.
+2024-02-23 23:50:53,621 - Victim node is 11290.
+2024-02-23 23:50:53,621 - tensor([13525, 16052, 16809], device='cuda:0')
+2024-02-23 23:50:53,622 - Classification Fails.
+2024-02-23 23:50:53,622 - Link Generation Fails.
+2024-02-24 00:08:11,090 - Victim node is 12546.
+2024-02-24 00:08:11,090 - tensor([ 8188, 14366, 15986], device='cuda:0')
+2024-02-24 00:08:11,090 - Classification Fails.
+2024-02-24 00:08:11,090 - Link Generation Fails.
+2024-02-24 00:25:20,065 - Victim node is 16682.
+2024-02-24 00:25:20,065 - tensor([ 2124,  4296, 18349], device='cuda:0')
+2024-02-24 00:25:20,065 - Classification Fails.
+2024-02-24 00:25:20,065 - Link Generation Fails.
+2024-02-24 00:42:37,525 - Victim node is 9335.
+2024-02-24 00:42:37,525 - tensor([10426, 16895, 19347], device='cuda:0')
+2024-02-24 00:42:37,526 - Classification Succeeds.
+2024-02-24 00:42:37,526 - Link Generation Fails.
+2024-02-24 00:59:50,473 - Victim node is 1731.
+2024-02-24 00:59:50,473 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-24 00:59:50,473 - Classification Fails.
+2024-02-24 00:59:50,473 - Link Generation Succeeds.
+2024-02-24 01:17:08,053 - Victim node is 7275.
+2024-02-24 01:17:08,053 - tensor([  61, 2597, 4296], device='cuda:0')
+2024-02-24 01:17:08,053 - Classification Fails.
+2024-02-24 01:17:08,053 - Link Generation Fails.
+2024-02-24 01:34:17,399 - Victim node is 16062.
+2024-02-24 01:34:17,399 - tensor([  187, 11102, 16972], device='cuda:0')
+2024-02-24 01:34:17,400 - Classification Succeeds.
+2024-02-24 01:34:17,400 - Link Generation Fails.
+2024-02-24 01:51:31,499 - Victim node is 6033.
+2024-02-24 01:51:31,499 - tensor([  406,  1722, 11102], device='cuda:0')
+2024-02-24 01:51:31,500 - Classification Fails.
+2024-02-24 01:51:31,500 - Link Generation Fails.
+2024-02-24 02:08:47,758 - Victim node is 4123.
+2024-02-24 02:08:47,758 - tensor([22470, 22472, 22473], device='cuda:0')
+2024-02-24 02:08:47,759 - Classification Fails.
+2024-02-24 02:08:47,759 - Link Generation Succeeds.
+2024-02-24 02:25:58,292 - Victim node is 2031.
+2024-02-24 02:25:58,292 - tensor([ 2442, 22472, 22474], device='cuda:0')
+2024-02-24 02:25:58,293 - Classification Succeeds.
+2024-02-24 02:25:58,293 - Link Generation Succeeds.
+2024-02-24 02:43:10,236 - Victim node is 17180.
+2024-02-24 02:43:10,237 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 02:43:10,237 - Classification Succeeds.
+2024-02-24 02:43:10,237 - Link Generation Succeeds.
+2024-02-24 03:00:33,076 - Victim node is 720.
+2024-02-24 03:00:33,076 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-24 03:00:33,076 - Classification Succeeds.
+2024-02-24 03:00:33,076 - Link Generation Fails.
+2024-02-24 03:17:51,243 - Victim node is 19018.
+2024-02-24 03:17:51,243 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 03:17:51,243 - Classification Fails.
+2024-02-24 03:17:51,243 - Link Generation Succeeds.
+2024-02-24 03:35:09,457 - Victim node is 4635.
+2024-02-24 03:35:09,457 - tensor([14497, 19347, 19743], device='cuda:0')
+2024-02-24 03:35:09,457 - Classification Succeeds.
+2024-02-24 03:35:09,457 - Link Generation Fails.
+2024-02-24 03:52:18,826 - Victim node is 16309.
+2024-02-24 03:52:18,826 - tensor([11102, 14650, 20415], device='cuda:0')
+2024-02-24 03:52:18,827 - Classification Succeeds.
+2024-02-24 03:52:18,827 - Link Generation Fails.
+2024-02-24 04:09:29,011 - Victim node is 185.
+2024-02-24 04:09:29,011 - tensor([  909,  4296, 12677], device='cuda:0')
+2024-02-24 04:09:29,012 - Classification Succeeds.
+2024-02-24 04:09:29,012 - Link Generation Fails.
+2024-02-24 04:26:47,312 - Victim node is 7036.
+2024-02-24 04:26:47,312 - tensor([ 3070, 14650, 21120], device='cuda:0')
+2024-02-24 04:26:47,313 - Classification Fails.
+2024-02-24 04:26:47,313 - Link Generation Fails.
+2024-02-24 04:43:59,857 - Victim node is 15473.
+2024-02-24 04:43:59,857 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-24 04:43:59,858 - Classification Succeeds.
+2024-02-24 04:43:59,858 - Link Generation Succeeds.
+2024-02-24 05:01:08,924 - Victim node is 18867.
+2024-02-24 05:01:08,924 - tensor([14497, 22470, 22471], device='cuda:0')
+2024-02-24 05:01:08,924 - Classification Fails.
+2024-02-24 05:01:08,924 - Link Generation Succeeds.
+2024-02-24 05:18:20,777 - Victim node is 19206.
+2024-02-24 05:18:20,777 - tensor([11102, 14497, 16895], device='cuda:0')
+2024-02-24 05:18:20,778 - Classification Fails.
+2024-02-24 05:18:20,778 - Link Generation Fails.
+2024-02-24 05:35:47,131 - Victim node is 4126.
+2024-02-24 05:35:47,131 - tensor([ 1783,  4296, 20415], device='cuda:0')
+2024-02-24 05:35:47,131 - Classification Succeeds.
+2024-02-24 05:35:47,131 - Link Generation Fails.
+2024-02-24 05:53:05,473 - Victim node is 21731.
+2024-02-24 05:53:05,473 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-24 05:53:05,473 - Classification Fails.
+2024-02-24 05:53:05,473 - Link Generation Succeeds.
+2024-02-24 06:10:15,608 - Victim node is 8195.
+2024-02-24 06:10:15,608 - tensor([ 1783,  8669, 17833], device='cuda:0')
+2024-02-24 06:10:15,609 - Classification Fails.
+2024-02-24 06:10:15,609 - Link Generation Fails.
+2024-02-24 06:27:27,803 - Victim node is 21003.
+2024-02-24 06:27:27,803 - tensor([  364, 16809, 22470], device='cuda:0')
+2024-02-24 06:27:27,804 - Classification Fails.
+2024-02-24 06:27:27,804 - Link Generation Succeeds.
+2024-02-24 06:44:43,159 - Victim node is 16954.
+2024-02-24 06:44:43,159 - tensor([  701,  4296, 16809], device='cuda:0')
+2024-02-24 06:44:43,159 - Classification Succeeds.
+2024-02-24 06:44:43,160 - Link Generation Fails.
+2024-02-24 07:02:01,509 - Victim node is 9325.
+2024-02-24 07:02:01,509 - tensor([11102, 14497, 16895], device='cuda:0')
+2024-02-24 07:02:01,509 - Classification Succeeds.
+2024-02-24 07:02:01,509 - Link Generation Fails.
+2024-02-24 07:19:16,312 - Victim node is 8093.
+2024-02-24 07:19:16,312 - tensor([21120, 22470, 22471], device='cuda:0')
+2024-02-24 07:19:16,313 - Classification Fails.
+2024-02-24 07:19:16,313 - Link Generation Succeeds.
+2024-02-24 07:36:26,040 - Victim node is 10810.
+2024-02-24 07:36:26,040 - tensor([ 3070, 16809, 21491], device='cuda:0')
+2024-02-24 07:36:26,040 - Classification Succeeds.
+2024-02-24 07:36:26,040 - Link Generation Fails.
+2024-02-24 07:53:37,596 - Victim node is 10066.
+2024-02-24 07:53:37,596 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-24 07:53:37,596 - Classification Succeeds.
+2024-02-24 07:53:37,597 - Link Generation Fails.
+2024-02-24 08:11:00,208 - Victim node is 4528.
+2024-02-24 08:11:00,209 - tensor([ 1722,  8188, 22472], device='cuda:0')
+2024-02-24 08:11:00,209 - Classification Fails.
+2024-02-24 08:11:00,209 - Link Generation Succeeds.
+2024-02-24 08:28:22,700 - Victim node is 12378.
+2024-02-24 08:28:22,700 - tensor([   61,  4296, 18349], device='cuda:0')
+2024-02-24 08:28:22,700 - Classification Succeeds.
+2024-02-24 08:28:22,700 - Link Generation Fails.
+2024-02-24 08:45:36,554 - Victim node is 11519.
+2024-02-24 08:45:36,555 - tensor([22472, 22473, 22474], device='cuda:0')
+2024-02-24 08:45:36,555 - Classification Fails.
+2024-02-24 08:45:36,555 - Link Generation Succeeds.
+2024-02-24 09:02:49,283 - Victim node is 255.
+2024-02-24 09:02:49,284 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 09:02:49,284 - Classification Fails.
+2024-02-24 09:02:49,284 - Link Generation Succeeds.
+2024-02-24 09:20:15,569 - Victim node is 17172.
+2024-02-24 09:20:15,569 - tensor([14497, 16895, 22474], device='cuda:0')
+2024-02-24 09:20:15,570 - Classification Succeeds.
+2024-02-24 09:20:15,570 - Link Generation Succeeds.
+2024-02-24 09:37:27,135 - Victim node is 19787.
+2024-02-24 09:37:27,135 - tensor([ 4296, 16869, 19347], device='cuda:0')
+2024-02-24 09:37:27,135 - Classification Fails.
+2024-02-24 09:37:27,135 - Link Generation Fails.
+2024-02-24 09:54:43,390 - Victim node is 4772.
+2024-02-24 09:54:43,391 - tensor([19347, 19743, 21729], device='cuda:0')
+2024-02-24 09:54:43,391 - Classification Succeeds.
+2024-02-24 09:54:43,391 - Link Generation Fails.
+2024-02-24 10:11:59,159 - Victim node is 3481.
+2024-02-24 10:11:59,159 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-24 10:11:59,159 - Classification Fails.
+2024-02-24 10:11:59,159 - Link Generation Succeeds.
+2024-02-24 10:29:10,214 - Victim node is 22379.
+2024-02-24 10:29:10,214 - tensor([14497, 16895, 22470], device='cuda:0')
+2024-02-24 10:29:10,214 - Classification Fails.
+2024-02-24 10:29:10,214 - Link Generation Succeeds.
+2024-02-24 10:46:21,489 - Victim node is 7935.
+2024-02-24 10:46:21,489 - tensor([ 9000, 13385, 16809], device='cuda:0')
+2024-02-24 10:46:21,489 - Classification Succeeds.
+2024-02-24 10:46:21,489 - Link Generation Fails.
+2024-02-24 11:03:48,870 - Victim node is 3202.
+2024-02-24 11:03:48,871 - tensor([ 2124,  4296, 14205], device='cuda:0')
+2024-02-24 11:03:48,871 - Classification Succeeds.
+2024-02-24 11:03:48,871 - Link Generation Fails.
+2024-02-24 11:21:05,973 - Victim node is 7500.
+2024-02-24 11:21:05,973 - tensor([22470, 22472, 22473], device='cuda:0')
+2024-02-24 11:21:05,973 - Classification Fails.
+2024-02-24 11:21:05,973 - Link Generation Succeeds.
+2024-02-24 11:38:25,648 - Victim node is 7564.
+2024-02-24 11:38:25,648 - tensor([13294, 17056, 21120], device='cuda:0')
+2024-02-24 11:38:25,648 - Classification Succeeds.
+2024-02-24 11:38:25,648 - Link Generation Fails.
+2024-02-24 11:55:41,391 - Victim node is 20824.
+2024-02-24 11:55:41,391 - tensor([ 4296,  8669, 16809], device='cuda:0')
+2024-02-24 11:55:41,392 - Classification Succeeds.
+2024-02-24 11:55:41,392 - Link Generation Fails.
+2024-02-24 12:12:51,492 - Victim node is 8152.
+2024-02-24 12:12:51,493 - tensor([13294, 16960, 21120], device='cuda:0')
+2024-02-24 12:12:51,493 - Classification Succeeds.
+2024-02-24 12:12:51,493 - Link Generation Fails.
+2024-02-24 12:30:06,557 - Victim node is 12781.
+2024-02-24 12:30:06,557 - tensor([  61,  750, 4296], device='cuda:0')
+2024-02-24 12:30:06,557 - Classification Succeeds.
+2024-02-24 12:30:06,557 - Link Generation Fails.
+2024-02-24 12:47:18,642 - Victim node is 3978.
+2024-02-24 12:47:18,642 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 12:47:18,642 - Classification Fails.
+2024-02-24 12:47:18,642 - Link Generation Succeeds.
+2024-02-24 13:04:27,851 - Victim node is 5366.
+2024-02-24 13:04:27,851 - tensor([   61,  8188, 14735], device='cuda:0')
+2024-02-24 13:04:27,851 - Classification Succeeds.
+2024-02-24 13:04:27,851 - Link Generation Fails.
+2024-02-24 13:21:37,600 - Victim node is 13118.
+2024-02-24 13:21:37,600 - tensor([ 4296, 14161, 20990], device='cuda:0')
+2024-02-24 13:21:37,600 - Classification Fails.
+2024-02-24 13:21:37,600 - Link Generation Fails.
+2024-02-24 13:38:51,352 - Victim node is 3055.
+2024-02-24 13:38:51,352 - tensor([22470, 22472, 22473], device='cuda:0')
+2024-02-24 13:38:51,352 - Classification Succeeds.
+2024-02-24 13:38:51,352 - Link Generation Succeeds.
+2024-02-24 13:56:00,206 - Victim node is 10847.
+2024-02-24 13:56:00,206 - tensor([10851, 14735, 16809], device='cuda:0')
+2024-02-24 13:56:00,206 - Classification Succeeds.
+2024-02-24 13:56:00,206 - Link Generation Fails.
+2024-02-24 14:13:15,805 - Victim node is 10196.
+2024-02-24 14:13:15,805 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-24 14:13:15,806 - Classification Succeeds.
+2024-02-24 14:13:15,806 - Link Generation Fails.
+2024-02-24 14:30:46,122 - Victim node is 7445.
+2024-02-24 14:30:46,123 - tensor([13294, 20415, 21120], device='cuda:0')
+2024-02-24 14:30:46,123 - Classification Succeeds.
+2024-02-24 14:30:46,123 - Link Generation Fails.
+2024-02-24 14:47:56,193 - Victim node is 19395.
+2024-02-24 14:47:56,193 - tensor([22470, 22471, 22473], device='cuda:0')
+2024-02-24 14:47:56,193 - Classification Succeeds.
+2024-02-24 14:47:56,193 - Link Generation Succeeds.
+2024-02-24 15:05:08,191 - Victim node is 2078.
+2024-02-24 15:05:08,191 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-24 15:05:08,192 - Classification Succeeds.
+2024-02-24 15:05:08,192 - Link Generation Succeeds.
+2024-02-24 15:22:24,426 - Victim node is 8366.
+2024-02-24 15:22:24,426 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-24 15:22:24,426 - Classification Succeeds.
+2024-02-24 15:22:24,426 - Link Generation Fails.
+2024-02-24 15:39:45,702 - Victim node is 8948.
+2024-02-24 15:39:45,702 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-24 15:39:45,702 - Classification Fails.
+2024-02-24 15:39:45,702 - Link Generation Succeeds.
+2024-02-24 15:56:54,560 - Victim node is 2316.
+2024-02-24 15:56:54,560 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-24 15:56:54,560 - Classification Succeeds.
+2024-02-24 15:56:54,561 - Link Generation Fails.
+2024-02-24 16:14:06,464 - Victim node is 18542.
+2024-02-24 16:14:06,464 - tensor([ 4296, 17392, 18409], device='cuda:0')
+2024-02-24 16:14:06,465 - Classification Succeeds.
+2024-02-24 16:14:06,465 - Link Generation Fails.
+2024-02-24 16:31:16,017 - Victim node is 12350.
+2024-02-24 16:31:16,017 - tensor([14650, 20415, 21120], device='cuda:0')
+2024-02-24 16:31:16,017 - Classification Succeeds.
+2024-02-24 16:31:16,017 - Link Generation Fails.
+2024-02-24 16:48:25,577 - Victim node is 21766.
+2024-02-24 16:48:25,577 - tensor([ 8505, 22470, 22471], device='cuda:0')
+2024-02-24 16:48:25,577 - Classification Fails.
+2024-02-24 16:48:25,578 - Link Generation Succeeds.
+2024-02-24 17:05:35,975 - Victim node is 15936.
+2024-02-24 17:05:35,976 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-24 17:05:35,976 - Classification Succeeds.
+2024-02-24 17:05:35,976 - Link Generation Fails.
+2024-02-24 17:22:48,791 - Victim node is 1516.
+2024-02-24 17:22:48,791 - tensor([13294, 21120, 22471], device='cuda:0')
+2024-02-24 17:22:48,791 - Classification Succeeds.
+2024-02-24 17:22:48,791 - Link Generation Succeeds.
+2024-02-24 17:39:58,952 - Victim node is 4523.
+2024-02-24 17:39:58,952 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-24 17:39:58,952 - Classification Fails.
+2024-02-24 17:39:58,952 - Link Generation Succeeds.
+2024-02-24 17:57:11,389 - Victim node is 20435.
+2024-02-24 17:57:11,389 - tensor([19347, 19743, 21729], device='cuda:0')
+2024-02-24 17:57:11,389 - Classification Succeeds.
+2024-02-24 17:57:11,389 - Link Generation Fails.
+2024-02-24 18:14:29,201 - Victim node is 7276.
+2024-02-24 18:14:29,201 - tensor([ 4296, 22473, 22474], device='cuda:0')
+2024-02-24 18:14:29,201 - Classification Succeeds.
+2024-02-24 18:14:29,201 - Link Generation Succeeds.
+2024-02-24 18:31:52,009 - Victim node is 626.
+2024-02-24 18:31:52,009 - tensor([ 1783, 13003, 17833], device='cuda:0')
+2024-02-24 18:31:52,009 - Classification Succeeds.
+2024-02-24 18:31:52,009 - Link Generation Fails.
+2024-02-24 18:49:14,408 - Victim node is 12572.
+2024-02-24 18:49:14,408 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 18:49:14,409 - Classification Fails.
+2024-02-24 18:49:14,409 - Link Generation Succeeds.
+2024-02-24 19:06:26,169 - Victim node is 7870.
+2024-02-24 19:06:26,169 - tensor([ 1722,  4296, 16809], device='cuda:0')
+2024-02-24 19:06:26,169 - Classification Succeeds.
+2024-02-24 19:06:26,169 - Link Generation Fails.
+2024-02-24 19:23:35,462 - Victim node is 18811.
+2024-02-24 19:23:35,462 - tensor([ 8188, 14735, 15986], device='cuda:0')
+2024-02-24 19:23:35,462 - Classification Succeeds.
+2024-02-24 19:23:35,462 - Link Generation Fails.
+2024-02-24 19:40:45,137 - Victim node is 693.
+2024-02-24 19:40:45,137 - tensor([ 8188, 15986, 18349], device='cuda:0')
+2024-02-24 19:40:45,137 - Classification Succeeds.
+2024-02-24 19:40:45,137 - Link Generation Fails.
+2024-02-24 19:57:56,246 - Victim node is 19984.
+2024-02-24 19:57:56,246 - tensor([ 507, 1300, 4296], device='cuda:0')
+2024-02-24 19:57:56,246 - Classification Succeeds.
+2024-02-24 19:57:56,246 - Link Generation Fails.
+2024-02-24 20:15:17,537 - Victim node is 10258.
+2024-02-24 20:15:17,537 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-24 20:15:17,537 - Classification Fails.
+2024-02-24 20:15:17,537 - Link Generation Succeeds.
+2024-02-24 20:32:38,780 - Victim node is 20939.
+2024-02-24 20:32:38,780 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 20:32:38,780 - Classification Fails.
+2024-02-24 20:32:38,780 - Link Generation Succeeds.
+2024-02-24 20:50:05,240 - Victim node is 14868.
+2024-02-24 20:50:05,240 - tensor([14681, 14735, 22471], device='cuda:0')
+2024-02-24 20:50:05,240 - Classification Succeeds.
+2024-02-24 20:50:05,240 - Link Generation Succeeds.
+2024-02-24 21:07:27,628 - Victim node is 7643.
+2024-02-24 21:07:27,628 - tensor([  187, 11102, 22471], device='cuda:0')
+2024-02-24 21:07:27,628 - Classification Fails.
+2024-02-24 21:07:27,628 - Link Generation Succeeds.
+2024-02-24 21:24:52,336 - Victim node is 15866.
+2024-02-24 21:24:52,336 - tensor([14161, 20990, 22473], device='cuda:0')
+2024-02-24 21:24:52,336 - Classification Fails.
+2024-02-24 21:24:52,336 - Link Generation Succeeds.
+2024-02-24 21:42:07,009 - Victim node is 1228.
+2024-02-24 21:42:07,009 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-24 21:42:07,010 - Classification Succeeds.
+2024-02-24 21:42:07,010 - Link Generation Fails.
+2024-02-24 21:59:22,586 - Victim node is 14778.
+2024-02-24 21:59:22,587 - tensor([ 1387, 14497, 16895], device='cuda:0')
+2024-02-24 21:59:22,587 - Classification Succeeds.
+2024-02-24 21:59:22,587 - Link Generation Fails.
+2024-02-24 22:16:38,573 - Victim node is 749.
+2024-02-24 22:16:38,574 - tensor([22470, 22473, 22474], device='cuda:0')
+2024-02-24 22:16:38,574 - Classification Fails.
+2024-02-24 22:16:38,574 - Link Generation Succeeds.
+2024-02-24 22:33:50,456 - Victim node is 4434.
+2024-02-24 22:33:50,456 - tensor([ 7362,  7364, 22472], device='cuda:0')
+2024-02-24 22:33:50,456 - Classification Fails.
+2024-02-24 22:33:50,456 - Link Generation Succeeds.
+2024-02-24 22:51:11,821 - Victim node is 5869.
+2024-02-24 22:51:11,821 - tensor([22470, 22472, 22473], device='cuda:0')
+2024-02-24 22:51:11,821 - Classification Succeeds.
+2024-02-24 22:51:11,821 - Link Generation Succeeds.
+2024-02-24 23:08:34,985 - Victim node is 6928.
+2024-02-24 23:08:34,985 - tensor([ 6174, 14366, 14681], device='cuda:0')
+2024-02-24 23:08:34,985 - Classification Succeeds.
+2024-02-24 23:08:34,986 - Link Generation Fails.
+2024-02-24 23:25:57,031 - Victim node is 18901.
+2024-02-24 23:25:57,031 - tensor([22471, 22472, 22473], device='cuda:0')
+2024-02-24 23:25:57,031 - Classification Fails.
+2024-02-24 23:25:57,031 - Link Generation Succeeds.
+2024-02-24 23:43:13,609 - Victim node is 16685.
+2024-02-24 23:43:13,609 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-24 23:43:13,609 - Classification Succeeds.
+2024-02-24 23:43:13,610 - Link Generation Succeeds.
+2024-02-25 00:00:29,937 - Victim node is 19661.
+2024-02-25 00:00:29,937 - tensor([10379, 19743, 21120], device='cuda:0')
+2024-02-25 00:00:29,938 - Classification Fails.
+2024-02-25 00:00:29,938 - Link Generation Fails.
+2024-02-25 00:17:54,320 - Victim node is 8141.
+2024-02-25 00:17:54,321 - tensor([13294, 17056, 21120], device='cuda:0')
+2024-02-25 00:17:54,321 - Classification Fails.
+2024-02-25 00:17:54,321 - Link Generation Fails.
+2024-02-25 00:35:11,965 - Victim node is 18526.
+2024-02-25 00:35:11,965 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-25 00:35:11,966 - Classification Fails.
+2024-02-25 00:35:11,966 - Link Generation Succeeds.
+2024-02-25 00:52:24,052 - Victim node is 6012.
+2024-02-25 00:52:24,052 - tensor([20415, 22473, 22474], device='cuda:0')
+2024-02-25 00:52:24,053 - Classification Fails.
+2024-02-25 00:52:24,053 - Link Generation Succeeds.
+2024-02-25 01:09:36,847 - Victim node is 1398.
+2024-02-25 01:09:36,847 - tensor([16895, 19743, 21729], device='cuda:0')
+2024-02-25 01:09:36,848 - Classification Succeeds.
+2024-02-25 01:09:36,848 - Link Generation Fails.
+2024-02-25 01:26:54,886 - Victim node is 14564.
+2024-02-25 01:26:54,886 - tensor([ 6558, 12031, 18349], device='cuda:0')
+2024-02-25 01:26:54,886 - Classification Fails.
+2024-02-25 01:26:54,886 - Link Generation Fails.
+2024-02-25 01:44:16,157 - Victim node is 5210.
+2024-02-25 01:44:16,157 - tensor([10851, 14735, 22471], device='cuda:0')
+2024-02-25 01:44:16,158 - Classification Fails.
+2024-02-25 01:44:16,158 - Link Generation Succeeds.
+2024-02-25 02:01:37,634 - Victim node is 1492.
+2024-02-25 02:01:37,634 - tensor([14497, 16895, 19743], device='cuda:0')
+2024-02-25 02:01:37,634 - Classification Fails.
+2024-02-25 02:01:37,634 - Link Generation Fails.
+2024-02-25 02:18:57,456 - Victim node is 13705.
+2024-02-25 02:18:57,456 - tensor([ 8505, 11102, 21922], device='cuda:0')
+2024-02-25 02:18:57,457 - Classification Succeeds.
+2024-02-25 02:18:57,457 - Link Generation Fails.
+2024-02-25 02:36:11,506 - Victim node is 4257.
+2024-02-25 02:36:11,506 - tensor([14681, 14735, 20161], device='cuda:0')
+2024-02-25 02:36:11,506 - Classification Succeeds.
+2024-02-25 02:36:11,506 - Link Generation Fails.
+2024-02-25 02:53:29,515 - Victim node is 15068.
+2024-02-25 02:53:29,515 - tensor([  478, 22471, 22472], device='cuda:0')
+2024-02-25 02:53:29,515 - Classification Fails.
+2024-02-25 02:53:29,515 - Link Generation Succeeds.
+2024-02-25 03:10:48,907 - Victim node is 7636.
+2024-02-25 03:10:48,907 - tensor([ 8188, 22473, 22474], device='cuda:0')
+2024-02-25 03:10:48,907 - Classification Fails.
+2024-02-25 03:10:48,907 - Link Generation Succeeds.
+2024-02-25 03:28:10,083 - Victim node is 18204.
+2024-02-25 03:28:10,084 - tensor([22470, 22472, 22474], device='cuda:0')
+2024-02-25 03:28:10,084 - Classification Fails.
+2024-02-25 03:28:10,084 - Link Generation Succeeds.
+2024-02-25 03:45:19,214 - Victim node is 15745.
+2024-02-25 03:45:19,214 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-25 03:45:19,215 - Classification Succeeds.
+2024-02-25 03:45:19,215 - Link Generation Fails.
+2024-02-25 04:02:29,218 - Victim node is 8651.
+2024-02-25 04:02:29,218 - tensor([14497, 16895, 19347], device='cuda:0')
+2024-02-25 04:02:29,218 - Classification Succeeds.
+2024-02-25 04:02:29,218 - Link Generation Fails.
+2024-02-25 04:19:42,878 - Victim node is 4510.
+2024-02-25 04:19:42,878 - tensor([ 4296,  8505, 18056], device='cuda:0')
+2024-02-25 04:19:42,878 - Classification Succeeds.
+2024-02-25 04:19:42,878 - Link Generation Fails.
+2024-02-25 04:37:15,712 - Victim node is 12888.
+2024-02-25 04:37:15,712 - tensor([ 1783, 14790, 17833], device='cuda:0')
+2024-02-25 04:37:15,712 - Classification Fails.
+2024-02-25 04:37:15,712 - Link Generation Fails.
+2024-02-25 04:54:33,240 - Victim node is 1440.
+2024-02-25 04:54:33,240 - tensor([13294, 17056, 21120], device='cuda:0')
+2024-02-25 04:54:33,241 - Classification Succeeds.
+2024-02-25 04:54:33,241 - Link Generation Fails.
+2024-02-25 05:11:58,594 - Victim node is 4612.
+2024-02-25 05:11:58,595 - tensor([   61,  2124, 15986], device='cuda:0')
+2024-02-25 05:11:58,595 - Classification Succeeds.
+2024-02-25 05:11:58,595 - Link Generation Fails.
+2024-02-25 05:29:19,088 - Victim node is 3164.
+2024-02-25 05:29:19,088 - tensor([22471, 22473, 22474], device='cuda:0')
+2024-02-25 05:29:19,088 - Classification Fails.
+2024-02-25 05:29:19,088 - Link Generation Succeeds.
+2024-02-25 05:46:41,024 - Victim node is 12147.
+2024-02-25 05:46:41,024 - tensor([  364, 16052, 22473], device='cuda:0')
+2024-02-25 05:46:41,024 - Classification Succeeds.
+2024-02-25 05:46:41,024 - Link Generation Succeeds.
+2024-02-25 06:04:06,695 - Victim node is 15199.
+2024-02-25 06:04:06,695 - tensor([13525, 14497, 16895], device='cuda:0')
+2024-02-25 06:04:06,695 - Classification Succeeds.
+2024-02-25 06:04:06,695 - Link Generation Fails.
+2024-02-25 06:21:21,459 - Victim node is 7456.
+2024-02-25 06:21:21,459 - tensor([ 1387, 19743, 21729], device='cuda:0')
+2024-02-25 06:21:21,459 - Classification Succeeds.
+2024-02-25 06:21:21,459 - Link Generation Fails.
+2024-02-25 06:38:46,261 - Victim node is 15319.
+2024-02-25 06:38:46,261 - tensor([14161, 22471, 22472], device='cuda:0')
+2024-02-25 06:38:46,261 - Classification Fails.
+2024-02-25 06:38:46,261 - Link Generation Succeeds.
+2024-02-25 06:55:58,931 - Victim node is 7030.
+2024-02-25 06:55:58,931 - tensor([ 5183, 18906, 19347], device='cuda:0')
+2024-02-25 06:55:58,932 - Classification Succeeds.
+2024-02-25 06:55:58,932 - Link Generation Fails.
+2024-02-25 07:13:08,278 - Victim node is 12735.
+2024-02-25 07:13:08,278 - tensor([22470, 22471, 22472], device='cuda:0')
+2024-02-25 07:13:08,278 - Classification Fails.
+2024-02-25 07:13:08,278 - Link Generation Succeeds.
+2024-02-25 07:30:12,965 - Victim node is 2886.
+2024-02-25 07:30:12,965 - tensor([ 2323, 14497, 15713], device='cuda:0')
+2024-02-25 07:30:12,965 - Classification Succeeds.
+2024-02-25 07:30:12,965 - Link Generation Fails.
+2024-02-25 07:47:17,207 - Victim node is 11521.
+2024-02-25 07:47:17,207 - tensor([13253, 22473, 22474], device='cuda:0')
+2024-02-25 07:47:17,207 - Classification Fails.
+2024-02-25 07:47:17,208 - Link Generation Succeeds.
+2024-02-25 08:04:21,508 - Victim node is 16893.
+2024-02-25 08:04:21,508 - tensor([14161, 20152, 20990], device='cuda:0')
+2024-02-25 08:04:21,508 - Classification Fails.
+2024-02-25 08:04:21,508 - Link Generation Fails.
+2024-02-25 08:21:25,718 - Victim node is 20006.
+2024-02-25 08:21:25,718 - tensor([14650, 16052, 18155], device='cuda:0')
+2024-02-25 08:21:25,719 - Classification Succeeds.
+2024-02-25 08:21:25,719 - Link Generation Fails.
+2024-02-25 08:21:25,719 - Misclassification Rate: 0.3740
+2024-02-25 08:21:25,719 - Link Generation Rate: 0.4020
