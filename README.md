@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-* `./module`: Includes models of LiSA, GraphCopy, and related surrogate models.
+* `./module`: Includes models of LiSA, GraphCopy, NIA baseline, and related surrogate models.
 * `./run`: Includes experiment logs of results reported in this paper.
 * `./script`: Includes scripts to reproduce results in this paper.
 * `./tools`: Some common functions used in this project.
