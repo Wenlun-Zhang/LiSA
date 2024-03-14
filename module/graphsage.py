@@ -33,8 +33,8 @@ class GraphSAGE(nn.Module):
                  ):
 
         super(GraphSAGE, self).__init__()
-        self.sageconv1 = SAGEConv(nfeat, nhid, sample_size=10)
-        self.sageconv2 = SAGEConv(nhid, nclass, sample_size=10)
+        self.sageconv1 = SAGEConv(nfeat, nhid, aggr='mean')
+        self.sageconv2 = SAGEConv(nhid, nclass, aggr='mean')
 
         self.lr = lr
         self.weight_decay = weight_decay
