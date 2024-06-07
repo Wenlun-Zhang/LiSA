@@ -178,7 +178,7 @@ if __name__ == "__main__":
                                 test_adj=test_link_adj_norm,
                                 test_pos_edge_label_index=test_link_pos_edge_label_index,
                                 test_neg_edge_label_index=test_link_neg_edge_label_index,
-                                epochs=100,
+                                epochs=150,
                                 verbose=False)
         z = recommender.encode(combined_feat, combined_adj_norm)
         recommended_adj = model.recommend_links(combined_adj, z, num_recommend_users)
@@ -191,7 +191,7 @@ if __name__ == "__main__":
                                    train_mask=train_cls_mask,
                                    val_mask=val_cls_mask,
                                    test_mask=test_cls_mask,
-                                   epochs=100,
+                                   epochs=200,
                                    verbose=False)
             output = classifier(combined_feat, recommended_edge_index)
         else:
@@ -203,7 +203,7 @@ if __name__ == "__main__":
                                    train_mask=train_cls_mask,
                                    val_mask=val_cls_mask,
                                    test_mask=test_cls_mask,
-                                   epochs=100,
+                                   epochs=200,
                                    verbose=False)
             output = classifier(combined_feat, recommended_adj_norm)
         pred = output[model.target_node_mask].max(1)[1]
