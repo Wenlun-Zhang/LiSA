@@ -121,3 +121,18 @@ def accuracy(output, labels):
     correct = preds.eq(labels).double()
     correct = correct.sum()
     return correct / len(labels)
+
+
+def cosine_similarity(tensor1, tensor2):
+    """
+    Calculate the Cosine similarity between two tensor
+    """
+    # Calculate L2 norm
+    norm1 = torch.norm(tensor1, p=2)
+    norm2 = torch.norm(tensor2, p=2)
+    # Calculate dot product
+    dot_product = torch.dot(tensor1, tensor2)
+    # Calculate Cosine similarity
+    cosine_sim = dot_product / (norm1 * norm2)
+    return cosine_sim
+    
