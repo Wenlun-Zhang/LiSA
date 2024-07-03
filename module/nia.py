@@ -223,6 +223,7 @@ if __name__ == "__main__":
     # Dataset Selection.
     dataset = Planetoid(dataset_dir, 'Cora', transform=T.NormalizeFeatures())
     # dataset = Amazon(dataset_dir, 'Photo', transform=T.NormalizeFeatures())
+    # dataset = Amazon(dataset_dir, 'Computers', transform=T.NormalizeFeatures())
     # dataset = Planetoid(dataset_dir, 'PubMed', transform=T.NormalizeFeatures())
     # dataset = FacebookPagePage(dataset_dir, transform=T.NormalizeFeatures())
 
