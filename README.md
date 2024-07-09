@@ -42,7 +42,7 @@ python3 script\lisa_cora.py
 
 ## Datasets
 
-The experiments are validated on four public real-word datasets: Cora, Amazon-Photo, PubMed, and FacebookPagePage, which can be downloaded through torch-geometric API.
+The experiments are validated on four public real-word datasets: Cora, Amazon-Photo, Amazon-Computers, PubMed, and FacebookPagePage, which can be downloaded through torch-geometric API.
 
 ## Citation
 
