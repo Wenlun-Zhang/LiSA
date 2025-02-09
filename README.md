@@ -29,7 +29,7 @@ Graph Neural Networks (GNNs) have demonstrated remarkable proficiency in modelin
 You can try LiSA in different settings by modifying parameters in main code and run:
 
 ```
-python3 module\lisa.py
+python3 module/lisa.py
 ```
 
 ### Reproduce the Results
@@ -37,7 +37,7 @@ python3 module\lisa.py
 The hyperparameters and random seeds are set exactly the same as to reproduce the results in this paper. Please run:
 
 ```
-python3 script\lisa_cora.py
+python3 script/lisa_cora.py
 ```
 
 ## Datasets
@@ -49,9 +49,9 @@ The experiments are validated on four public real-word datasets: Cora, Amazon-Ph
 If you find this repo is useful, please cite our paper. Thanks.
 
 ```bibtex
-@article{Anonymous,
+@article{LiSA,
   title={LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection},
-  author={Anonymous},
-  journal={Anonymous},
-  year={Anonymous}
+  author={Zhang, Wenlun and Dai, Enyan and Yoshioka, Kentaro},
+  journal={arXiv:XXXX.XXXXX},
+  year={2025}
 }
