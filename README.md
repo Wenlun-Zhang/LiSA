@@ -22,6 +22,8 @@ scikit-learn==1.3.0
 
 ### Abstract
 
+[Paper](https://arxiv.org/abs/2502.09271)
+
 Graph Neural Networks (GNNs) have demonstrated remarkable proficiency in modeling data with graph structures, yet recent research reveals their susceptibility to adversarial attacks. Traditional attack methodologies, which rely on manipulating the original graph or adding links to artificially created nodes, often prove impractical in real-world settings. This paper introduces a novel adversarial scenario involving the injection of an isolated subgraph to deceive both the link recommender and the node classifier within a GNN system. Specifically, the link recommender is mislead to propose links between targeted victim nodes and the subgraph, encouraging users to unintentionally establish connections and that would degrade the node classification accuracy, thereby facilitating a successful attack. To address this, we present the LiSA framework, which employs a dual surrogate model and bi-level optimization to simultaneously meet two adversarial objectives. Extensive experiments on real-world datasets demonstrate the effectiveness of our method.
 
 ### Play with LiSA
@@ -52,6 +54,7 @@ If you find this repo is useful, please cite our paper. Thanks.
 @article{LiSA,
   title={LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection},
   author={Zhang, Wenlun and Dai, Enyan and Yoshioka, Kentaro},
-  journal={arXiv:XXXX.XXXXX},
+  journal={arXiv:2502.09271},
   year={2025}
 }
+```
