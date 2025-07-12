@@ -2,6 +2,8 @@
 
 ## 1. Overview
 
+LiSA received [**Best Paper Award**](https://pakdd.org/awards.html#2025) in PAKDD 2025.
+
 * `./module`: Includes models of LiSA, GraphCopy, NIA baseline, and related surrogate models.
 * `./run`: Includes experiment logs of results reported in this paper.
 * `./script`: Includes scripts to reproduce results in this paper.
@@ -51,10 +53,12 @@ The experiments are validated on four public real-word datasets: Cora, Amazon-Ph
 If you find this repo is useful, please cite our paper. Thanks.
 
 ```bibtex
-@article{LiSA,
+@inproceedings{zhang2025lisa,
   title={LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection},
   author={Zhang, Wenlun and Dai, Enyan and Yoshioka, Kentaro},
-  journal={arXiv:2502.09271},
-  year={2025}
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={15--26},
+  year={2025},
+  organization={Springer}
 }
 ```
